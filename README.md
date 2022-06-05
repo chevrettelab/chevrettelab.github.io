@@ -70,3 +70,7 @@ First time:
 Deploy:
 - from the "source" branch, yarn predeploy
 - from the "source" branch, yarn deploy
+
+
+
+Off a fresh clone, run `yarn setup`, `yarn predeploy`, `yarn deploy`
