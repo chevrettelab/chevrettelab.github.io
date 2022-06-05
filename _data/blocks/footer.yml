@@ -1,0 +1,184 @@
+# ------------------------------------------------------------------------------
+# ~/_data/blocks/footer.yml
+# User configuration settings for site-wide footer
+#
+# Product/Info:
+# https://jekyll.one
+#
+# Copyright (C) 2022 Juergen Adams
+#
+# J1 Template is licensed under the MIT License.
+# See: https://github.com/jekyll-one-org/J1 Template/blob/master/LICENSE
+#
+# ------------------------------------------------------------------------------
+
+# ------------------------------------------------------------------------------
+# Description (used for J1 CC only)
+#
+description:
+
+  title:                                Footer
+  scope:                                User settings
+  location:                             _data/blocks/footer.yml
+
+# ------------------------------------------------------------------------------
+# SETTINGS
+#
+settings:
+
+  # ----------------------------------------------------------------------------
+  # FOOTER properties
+  #
+  footers:
+
+    # --------------------------------------------------------------------------
+    # Footer UNO light
+    #
+    - name:                             Footer UNO light
+      footer:
+        id:                             footer-en
+        enabled:                        true
+        comment:                        Footer UNO EN-EN
+        theme:                          footer-light-theme
+
+        # ----------------------------------------------------------------------
+        # ISSUE settings
+        #
+        issue:
+          enabled:                      true
+          date:                         site.time
+          en:
+            date_format:                "%A, %-d %B %Y"
+            text:                       Last modified
+          de:
+            date_format:                "%A, %-d %B %Y"
+            text:                       Letzte Änderung
+
+        # ----------------------------------------------------------------------
+        # ICON settings
+        #
+        icons:
+          facebook:
+            enabled:                    false
+            href:                       "#void"
+          twitter:
+            enabled:                    false
+            href:                       "#void"
+
+        # --------------------------------------------------------------------------
+        # LEGAL settings
+        #
+        legals:
+
+          - name:                       Copyright
+            legal:
+              enabled:                  true
+
+              type:                     copyright
+              statement:                © 2022 Chevrette Lab · All rights reserved
+              translate_statement:      notranslate                             # translate|notranslate
+              href:                     none
+
+        # ----------------------------------------------------------------------
+        # BOXES
+        #
+        boxes:
+
+          # --------------------------------------------------------------------
+          # ABOUT box
+          #
+          - name:                       About
+            type:                       about
+            enabled:                    true
+
+            title:                      Chevrette Lab
+            title_translation:          notranslate
+            tagline:                    
+            text: >
+                                        The Chevrette Lab is part of the 
+                                        <a href="https://microcell.ufl.edu/">Department of Microbiology & Cell Sciences</a>
+                                        and the
+                                        <a href="https://ifas.ufl.edu/">Institute of Food and Agricultural Sciences</a>
+                                        at the 
+                                        <a href="https://www.ufl.edu/">University of Florida</a>.
+                                        <br><br>
+                                        <b>This site is currently under construction.</b>
+
+            justify:                    true
+
+          # --------------------------------------------------------------------
+          # NEWS box
+          #
+          - name:                       News
+            type:                       news
+            enabled:                    false
+
+            title:                      Creators Blog
+            title_translation:          notranslate                             # translate|notranslate
+            tagline:                    latest news
+            category:                   featured
+            max_posts:                  3
+
+          # --------------------------------------------------------------------
+          # LINKS box
+          #
+          - name:                       Links
+            type:                       references
+            enabled:                    false
+
+            title:                      Links
+            title_translation:          notranslate
+            tagline:                    top sites
+
+            links:
+
+              - name:                   Jekyll Home
+                link:
+                  title:                Jekyll Home
+                  title_translation:    notranslate
+                  tagline:              First for latest news
+                  href:                 http://jekyllrb.com/
+
+              - name:                   Jekyll Tips
+                link:
+                  title:                Jekyll Tips
+                  title_translation:    notranslate
+                  tagline:              Learn from experts
+                  href:                 http://jekyll.tips/
+
+              - name:                   Stackoverflow
+                link:
+                  title:                Stackoverflow
+                  title_translation:    notranslate
+                  tagline:              Get help
+                  href:                 http://stackoverflow.com/questions/tagged/jekyll
+
+          # --------------------------------------------------------------------
+          # CONTACT box
+          #
+          - name:                       Contact
+            type:                       contact
+            enabled:                    true
+
+            title:                      Contact
+            title_translation:          notranslate                             # translate|notranslate
+            tagline:                    
+
+            address:
+              enabled:                  true
+              address_1:                Department of Microbiology & Cell Science
+              address_2:                P.O. Box 110700
+              address_3:                Gainesville, FL 32611-0180
+
+            phone:
+              enabled:                  false
+              office_hours:             9am-7pm
+              phone_1:                  401.269.9173
+
+            internet:
+              enabled:                  true
+              mail_1:                   mchevrette (at) ufl (dot) edu
+              mail_2:                   401.269.9173
+
+# ------------------------------------------------------------------------------
+# END config

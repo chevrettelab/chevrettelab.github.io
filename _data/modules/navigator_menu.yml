@@ -1,0 +1,63 @@
+# ------------------------------------------------------------------------------
+# ~/_data/modules/j1_navigator_menu.yml (run-time)
+# Configuration of the J1 NAV Module for the main navigation bar
+#
+# Product/Info:
+# https://jekyll.one
+#
+# Copyright (C) 2022 Juergen Adams
+#
+# J1 Template is licensed under the MIT License.
+# See: https://github.com/jekyll-one-org/J1 Template/blob/master/LICENSE
+#
+# ------------------------------------------------------------------------------
+# NOTE:
+#   For general navigation settings, see navigator.yml
+# ------------------------------------------------------------------------------
+
+# ------------------------------------------------------------------------------
+
+- item:         Chevrette Lab
+  href:         /
+
+- item:         Research
+  sublevel:
+    - title:    Overview
+      href:     /pages/public/research_overview/site/
+      icon:     flask-empty
+    - title:    Publications
+      href:     https://scholar.google.com/citations?hl=en&user=VX3Laf8AAAAJ&sortby=pubdate
+      icon:     file-document-multiple
+
+- item:         Team 
+  sublevel:
+    - title:    Current lab
+      href:     /pages/public/team/current/site/
+      icon:     human
+    - title:    Alumni
+      href:     /pages/public/team/alum/site/
+      icon:     human-cane
+    - title:    Join us!
+      href:     /pages/public/join_us/site/
+      icon:     human-greeting
+
+- item:         Lab Principles
+  href:         /pages/public/lab_principles/site/
+
+- item:         News
+  href:         /pages/public/blog/navigator/
+
+- item:         Join us
+  href:         /pages/public/join_us/site/
+
+- item:         About
+  sublevel:
+    - title:    About us
+      href:     /pages/public/about/site/
+      icon:     human-greeting
+    - title:    Contact
+      href:     /pages/public/about/contact/site/
+      icon:     human-greeting-proximity
+
+# ------------------------------------------------------------------------------
+# END config

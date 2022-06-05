@@ -1,0 +1,57 @@
+---
+title:                                  Chevrette Lab
+tagline:                                Current Team
+date:                                   2022-06-04 00:00:00
+description: >
+                                        Who we are.
+
+tags:                                   [ Overview ]
+categories:                             [ Team ]
+
+scrollbar:                              false
+
+permalink:                              /pages/public/team/current/site/
+regenerate:                             false
+
+resources:                              [ animate, scroller ]
+resource_options:
+  - attic:
+      padding_top:                      400
+      padding_bottom:                   50
+      opacity:                          0.5
+      slides:
+        - url:                          /assets/images/modules/attics/gator1.jpg
+---
+
+// Page Initializer
+// =============================================================================
+// Enable the Liquid Preprocessor
+:page-liquid:
+
+// Set (local) page attributes here
+// -----------------------------------------------------------------------------
+// :page--attr:                         <attr-value>
+:badges-enabled:                        false
+
+//  Load Liquid procedures
+// -----------------------------------------------------------------------------
+{% capture load_attributes %}themes/{{site.template.name}}/procedures/global/attributes_loader.proc{%endcapture%}
+
+// Load page attributes
+// -----------------------------------------------------------------------------
+{% include {{load_attributes}} scope="global" %}
+
+
+// Page content
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ifeval::[{badges-enabled} == true]
+{badge-j1--license} {badge-j1--version-latest} {badge-j1-gh--last-commit} {badge-j1--downloads}
+endif::[]
+
+// Include sub-documents (if any)
+// -----------------------------------------------------------------------------
+
+== Under construction
+
+Check back soon.

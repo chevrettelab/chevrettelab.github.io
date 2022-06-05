@@ -1,7 +1,59 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-<p>Welcome to the future home of the Chevrette Lab at the University of Florida. This site is currently under construction.</p>
-</body>
-</html>
+---
+layout:                                 home
+compress:                               true
+
+title:                                  Chevrette Lab
+tagline:                                University of Florida
+description: >
+                                        Home.
+
+categories:                             [ Site ]
+tags:                                   [ Home ]
+
+robots:
+  index:                                true
+  follow:                               true
+
+personalization:                        false
+exclude_from_search:                    false
+
+fab_menu_id:                            default
+scrollbar:                              false
+toc:                                    false
+
+regenerate:                             true
+
+resources:                              [ animate, scroller ]
+resource_options:
+  - attic:
+      padding_top:                      400
+      padding_bottom:                   50
+      opacity:                          0.5
+      slides:
+        - url:                          /assets/images/modules/attics/gator1.jpg
+---
+
+<pre>
+  This page is created by the layout: {{ page.layout }}.
+
+  If this text is displayed (instead of the home page expected),
+  something went  wrong with the layout definitions. Check  the
+  output of the Jekyll engine building this site.
+
+  Check the  contents   of folder _layouts. Verify  if the base
+  layout  "{{ page.layout }}" exists  and the  referring  chain
+  (inheritance) is correct.
+
+  If you see this page within the J1 Template DEVELOPMENT system,
+  re-run a site built running:
+
+    yarn rebuild site
+
+  If you're on a RUNTIME system run a built like so:
+
+    yarn rebuild
+
+  and open the website again by:
+
+    yarn site
+</pre>
