@@ -177,7 +177,7 @@ settings:
                     icon:               flask-empty
                     icon_color:
                     icon_size:          3x
-                    href:               /pages/public/research_overview/
+                    href:               /pages/public/research_overview/site/
                     target:
 
                 - name:                 Team
@@ -191,7 +191,7 @@ settings:
                     icon:               human-greeting
                     icon_color:
                     icon_size:          3x
-                    href:               /pages/public/team/current/
+                    href:               /pages/public/team/current/site/
                     target:             blank
 
                 - name:                 Publications

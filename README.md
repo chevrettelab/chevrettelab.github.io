@@ -74,3 +74,5 @@ Deploy:
 
 
 Off a fresh clone, run `yarn setup`, `yarn predeploy`, `yarn deploy`
+
+NOTE: changes must be pushed to source before `yarn deploy`
