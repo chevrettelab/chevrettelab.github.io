@@ -1,0 +1,221 @@
+
+
+  {
+  "jg_example" : [
+      {
+        "captions_gallery":  "Osaka - Japan",
+        "img":               "/assets/images/modules/gallery/mega_cities/banter-snaps_b.jpg"
+      },
+      {
+        "captions_gallery":  "Man posing at the rooftop of Jin Mao Tower Shanghai - China",
+        "img":               "/assets/images/modules/gallery/mega_cities/denys-nevozhai-1_b.jpg"
+      }
+  ],
+  "jg_old_times" : [
+      {
+        "captions_gallery":  "GrandPa's 80th Birthday",
+        "img":               "/assets/images/modules/gallery/old_times/image_01.jpg"
+      },
+      {
+        "captions_gallery":  "GrandPa's 80th Birthday",
+        "img":               "/assets/images/modules/gallery/old_times/image_02.jpg"
+      },
+      {
+        "captions_gallery":  "GrandPa's annual journey",
+        "img":               "/assets/images/modules/gallery/old_times/image_03.jpg"
+      },
+      {
+        "captions_gallery":  "GrandPa's annual journey",
+        "img":               "/assets/images/modules/gallery/old_times/image_04.jpg"
+      }
+  ],
+  "jg_customizer" : [
+      {
+        "captions_gallery":  "Osaka - Japan",
+        "img":               "/assets/images/modules/gallery/mega_cities/banter-snaps_b.jpg"
+      },
+      {
+        "captions_gallery":  "Man posing at the rooftop of Jin Mao Tower Shanghai - China",
+        "img":               "/assets/images/modules/gallery/mega_cities/denys-nevozhai-1_b.jpg"
+      },
+      {
+        "captions_gallery":  "Shangri-La Hotel Jakarta - Indonesia",
+        "img":               "/assets/images/modules/gallery/mega_cities/gints-gailis_b.jpg"
+      },
+      {
+        "captions_gallery":  "Tokyo seen from World Trade Center Observation Deck - Japan",
+        "img":               "/assets/images/modules/gallery/mega_cities/steven-diaz_b.jpg"
+      },
+      {
+        "captions_gallery":  "Young couple over Shenzhen - China",
+        "img":               "/assets/images/modules/gallery/mega_cities/denys-nevozhai-2_b.jpg"
+      },
+      {
+        "captions_gallery":  "The Queen Bee at the Eureka Tower - Melbourne Southbank Australia",
+        "img":               "/assets/images/modules/gallery/mega_cities/johan-mouchet_b.jpg"
+      },
+      {
+        "captions_gallery":  "Chicago - United States",
+        "img":               "/assets/images/modules/gallery/mega_cities/emmad-mazhari_b.jpg"
+      },
+      {
+        "captions_gallery":  "Shanghai - China",
+        "img":               "/assets/images/modules/gallery/mega_cities/federico-rizzarelli_b.jpg"
+      },
+      {
+        "captions_gallery":  "Cityscape of Bangkok Downtown - Thailand",
+        "img":               "/assets/images/modules/gallery/mega_cities/andreas-brucker_b.jpg"
+      },
+      {
+        "captions_gallery":  "Sunset over Taipei City - Taiwan",
+        "img":               "/assets/images/modules/gallery/mega_cities/thomas-tucker_b.jpg"
+      },
+      {
+        "captions_gallery":  "Brooklyn Bridge New York - United States",
+        "img":               "/assets/images/modules/gallery/mega_cities/luca-bravo_b.jpg"
+      },
+      {
+        "captions_gallery":  "Lotte World Tower Seoul - South Korea",
+        "img":               "/assets/images/modules/gallery/mega_cities/ethan-brooke_b.jpg"
+      },
+      {
+        "captions_gallery":  "New York City",
+        "img":               "/assets/images/modules/gallery/mega_cities/oskars-sylwan_b.jpg"
+      }
+  ],
+  "jg_video_html5" : [
+      {
+        "video":             "video1.mp4",
+        "image_path":        "/assets/videos/gallery",
+        "video_path":        "/assets/videos/gallery/html5",
+        "video_id":          "video1-mp4",
+        "poster":   	       "video1-poster.jpg",
+        "captions_lightbox": "<p>CGI Animated Short HD: Student Academy Award Winning <b>PeckPocketed</b> by Kevin Herron</p>",
+        "captions_gallery":  "PeckPocketed"
+      },
+      {
+        "video":             "video2.mp4",
+        "image_path":        "/assets/videos/gallery",
+        "video_path":        "/assets/videos/gallery/html5",
+        "video_id":          "video2-mp4",
+        "poster":   	       "video2-poster.jpg",
+        "captions_lightbox": "<p>Rollin`Wild - Short Funny Animated Clips - Film Academy BW</p>",
+        "captions_gallery":  "Rollin`Wild"
+      }
+  ],
+  "jg_video_online_youtube" : [
+      {
+        "video":             "//youtube.com/watch?v=X5Cfi7U4eL4",
+        "image_path":        "/assets/videos/gallery",
+        "poster":   	       "video_gaga-poster.jpg",
+        "captions_lightbox": "<p>Lady Gaga joins James for a drive through Los Angeles singing her classics and tracks from her new album</p>",
+        "captions_gallery":  "Carpool Karaoke - Lady Gaga"
+      },
+      {
+        "video":             "//youtube.com/watch?v=Nck6BZga7TQ",
+        "image_path":        "/assets/videos/gallery",
+        "poster":   	       "video_adele-poster.jpg",
+        "captions_lightbox": "<p>James Corden is about the holidays in London and gets Adele off for a ride through the city. On the way they sing some of their biggest hits and Adele raps Nicki Minaj's <b>monster</b></p>",
+        "captions_gallery":  "Carpool Karaoke - Adele"
+      },
+      {
+        "video":             "//youtube.com/watch?v=F2SXmzk8ve4",
+        "image_path":        "/assets/videos/gallery",
+        "poster":   	       "video_gwen-poster.jpg",
+        "captions_lightbox": "<p>Gwen Stefani, Julia Roberts, George Clooney and James Corden singing Holla back girl, there's nothing left to see</p>",
+        "captions_gallery":  "Carpool Karaoke - Gwen Stefani"
+      },
+      {
+        "video":             "//youtube.com/watch?v=ln3wAdRAim4",
+        "image_path":        "/assets/videos/gallery",
+        "poster":   	       "video_michelle-poster.jpg",
+        "captions_lightbox": "<p>James Corden's White House tour takes an unthinkable turn when First Lady Michelle Obama joins him for a drive around the grounds singing Stevie Wonder and Beyonce</p>",
+        "captions_gallery":  "Carpool Karaoke - First Lady Michelle Obama"
+      }
+  ],
+  "jg_video_online_youtube_2" : [
+      {
+        "video":             "//youtube.com/watch?v=aQqPgLMgO-I",
+        "image_path":        "/assets/videos/gallery/voice_kids_de_2021",
+        "poster":   	       "constance.jpg",
+        "captions_lightbox": "<p>14-year-old Constance has dreamed of being on The Voice Kids stage for a very long time. Your dream has finally come true! She performs a breathtaking version of Sia's song Alive.</p>",
+        "player_params":     "start: 0, end: 148",
+        "captions_gallery":  "The Voice Kids Germany 2021 - Constance"
+      },
+      {
+        "video":             "//youtube.com/watch?v=Bl6tkAgaP1g",
+        "image_path":        "/assets/videos/gallery/voice_kids_de_2021",
+        "poster":   	       "elisa.jpg",
+        "captions_lightbox": "<p>14-year-old Elisa is fascinated by the classics of pop music. Her version of Hey Jude from The Beatles comes with a lot of feeling.</p>",
+        "player_params":     "start: 0, end: 122",
+        "captions_gallery":  "The Voice Kids Germany 2021 - Elisa"
+      },
+      {
+        "video":             "//youtube.com/watch?v=GuiOYCv9NTI",
+        "image_path":        "/assets/videos/gallery/voice_kids_de_2021",
+        "poster":   	       "ben.jpg",
+        "captions_lightbox": "<p>14-year-old Ben pours all of his emotions into his performance of Maroon 5's Sunday Morning. He wants to show what he's made of.</p>",
+        "player_params":     "start: 0, end: 104",
+        "captions_gallery":  "The Voice Kids Germany 2021 - Ben"
+      },
+      {
+        "video":             "//youtube.com/watch?v=1bvE2mgJ22I",
+        "image_path":        "/assets/videos/gallery/voice_kids_de_2021",
+        "poster":   	       "battle.jpg",
+        "captions_lightbox": "<p>The battle of the three young people is a real emotional battle. Elisa's husky voice, Constanze's unbelievable power, and Ben's rhythm come into their own in Adele's James Bond theme song Skyfall.</p>",
+        "player_params":     "start: 10, end: 173",
+        "captions_gallery":  "The Voice Kids Germany 2021 - The Battle"
+      }
+  ],
+  "jg_video_online_vimeo" : [
+      {
+        "video":             "//vimeo.com/175582480",
+        "image_path":        "/assets/videos/gallery",
+        "poster":   	       "adriana-lima-poster.jpg",
+        "captions_lightbox": "<p>Adriana Lima on Vimeo</p>",
+        "captions_gallery":  "Vogue -  Adriana Lima"
+      },
+      {
+        "video":             "//vimeo.com/179528528",
+        "image_path":        "/assets/videos/gallery",
+        "poster":   	       "kick-it-old-school-poster.jpg",
+        "captions_lightbox": "<p>Kick It Old School on Vimeo</p>",
+        "captions_gallery":  "Young Fashion - Kick It Old School"
+      }
+  ],
+  "jg_video_online_dailymotion" : [
+      {
+        "video":             "//dai.ly/x887s09",
+        "image_path":        "/assets/videos/gallery/dailymotion",
+        "poster":   	       "meditation.jpg",
+        "captions_lightbox": "<p>Guided Meditation: Morning Energy</p>",
+        "captions_gallery":  "Guided Meditation: Morning Energy"
+      },
+      {
+        "video":             "//dai.ly/x87ycik",
+        "image_path":        "/assets/videos/gallery/dailymotion",
+        "poster":   	       "pilates.jpg",
+        "captions_lightbox": "<p>Beginner Mat Pilates: Core Workout</p>",
+        "captions_gallery":  "Beginner Mat Pilates: Core Workout"
+      }
+  ],
+  "jg_video_online_vk" : [
+      {
+        "video":             "//vk.com/video_ext.php?oid=-114944820&id=456242413&hash=ef5be3f71500f8df",
+        "image_path":        "/assets/videos/gallery/vk",
+        "poster":   	       "otter.jpg",
+        "captions_lightbox": "<p>Otter plague</p>",
+        "captions_gallery":  "Otter plague"
+      },
+      {
+        "video":             "//vk.com/video_ext.php?oid=-114944820&id=456239717&hash=f6651448bfb14b90",
+        "image_path":        "/assets/videos/gallery/vk",
+        "poster":   	       "hai.jpg",
+        "captions_lightbox": "<p>Looked at the shark's mouth (whale shark)</p>",
+        "captions_gallery":  "Looked at the shark's mouth (whale shark)"
+      }
+  ]
+}
+
+
+
