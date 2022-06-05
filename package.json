@@ -135,7 +135,10 @@
     "get_version": "run-s get_version:*",
     "get_version:jekyll": "cross-var cross-env JEKYLL_ENV=$npm_package_config_mode BUNDLE_GEMFILE=$npm_package_jekyll_gemfile bundle exec jekyll --version",
     "nbi-export--all": "cross-var nbinteract -r $npm_package_nbi_opt_nbi_input_folder -o $npm_package_nbi_opt_nbi_output_folder -t $npm_package_nbi_opt_output_type -s $npm_package_nbi_opt_credentials"
+	"predeploy": "yarn run build",
+    "deploy": "gh-pages -b master -d build",
   },
+  "homepage": "https://chevrettelab.github.io/",
   "dependencies": {
     "cross-env": "^7.0.3",
     "cross-var": "^1.1.0",
