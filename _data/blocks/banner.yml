@@ -205,7 +205,7 @@ settings:
                     icon:               file-document-multiple
                     icon_color:
                     icon_size:          3x
-                    href:               https://scholar.google.com/citations?hl=en&user=VX3Laf8AAAAJ
+                    href:               https://scholar.google.com/citations?hl=en&user=VX3Laf8AAAAJ&sortby=pubdate
                     target:             blank
 
     # --------------------------------------------------------------------------
