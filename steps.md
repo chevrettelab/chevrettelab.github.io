@@ -56,3 +56,13 @@ Stuff to edit:
 	- collections/posts/public/*/* for news (blog) items
 	- pages/public/blog/navigator/index.html (actually a yml/markdown) for blog landing page
 	- index.html for the home page
+	
+How to deploy:
+yarn add gh-pages
+add "predeploy": "yarn run build",
+    "deploy": "gh-pages -b master -d build"
+	to the scripts block of package.json (on main branch)
+add "homepage": "https://chevrettelab.github.io/",
+	to package.json (just above "dependencies")
+from the "source" branch, yarn predeploy
+from the "source" branch, yarn deploy
