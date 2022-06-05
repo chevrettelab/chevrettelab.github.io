@@ -80,8 +80,8 @@ copyright:                              © 2022 Chevrette Lab · All rights rese
 #
 #   default:                            j1-template
 #
-#theme:                                  j1-template
-remote-theme:                           jekyll-one/j1-template
+theme:                                  j1-template
+#remote-theme:                           jekyll-one/j1-template
 
 # ------------------------------------------------------------------------------
 #   J1 Template configuration
