@@ -24,10 +24,10 @@ description:
 # User configuration settings
 #
 settings:
-  enabled:                            true
+  enabled:                            false
 
-  show_cookie_icon:                   true
-  expire_cookies_on_required_only:    true
+  show_cookie_icon:                   false
+  expire_cookies_on_required_only:    false
 
 # ------------------------------------------------------------------------------
 # END config
