@@ -598,7 +598,7 @@ resources:
   #
   - name:                               J1 CookieConsent
     resource:
-      enabled:                          true
+      enabled:                          false
 
       id:                               cookieConsent
       comment:                          module cookieConsent
