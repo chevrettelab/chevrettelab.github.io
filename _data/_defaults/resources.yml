@@ -552,7 +552,7 @@ resources:
   - name:                               J1 CookieConsent
     resource:
       id:                               cookieConsent
-      enabled:                          true
+      enabled:                          false
       comment:                          module cookieConsent
       region:                           head
       layout:                           [ all ]
