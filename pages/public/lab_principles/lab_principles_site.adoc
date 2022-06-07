@@ -58,12 +58,16 @@ Research and our experience both show that diverse groups generate better ideas 
 
 We welcome and value diverse people in our lab and expect each lab member to uphold high standards of integrity and respect. We do not tolerate discrimination based on, but not limited to, ability, age, experience, and identities (e.g. race, ethnicity, gender, sexual orientation, and religion). We believe that each of us has a responsibility to prevent or address unfair behaviors within our lab and scientific environments and to contribute to a welcoming environment.
 
-## We aim to build a safe, welcoming, and supportive lab environment by...
+'''
+
+## We aim to build a safe, welcoming, and supportive lab environment by
 
 - acknowledging each lab member’s needs and unique voice
 - trusting one another to hear and be heard
 - ensuring that discourse is respectful and supportive
 - dynamically assessing the social climate of our lab individually and together to improve the environment for all
+
+'''
 
 == Our lab adheres to the principles of AJEDI
 
@@ -73,8 +77,7 @@ __Antiracism, Justice, Equity, Diversity, & Inclusion__
 
 Each of us must explicitly and proactively oppose racism in our research, words, and actions.
 
-_In our lab..._
-
+In our lab::
 - we strive to reshape our behavior and biases to actively learn about our scientific history while challenging harmful notions of race and culture
 - we speak out against harmful racist language and behavior that is both explicit & implicit
 
@@ -82,8 +85,7 @@ _In our lab..._
 
 We are all equally deserving of respect and fair treatment. We strive to accept that each of us has unique needs. Intentional action and just behavior prevents and corrects injustice to ensure that all people are treated fairly. 
 
-_In our lab..._
-
+In our lab::
 - we aim to ensure all lab members have equitable access to opportunities and resources for research, science communication, and mentoring
 - we each have the responsibility to advocate for ourselves and others and to speak out when opportunity is not offered
 - we learn from our mistakes to maintain the safety and respect of each individual
@@ -92,8 +94,7 @@ _In our lab..._
 
 We are all unique. Our diverse backgrounds and experiences make us better at tackling problems together and are important for our collective success. Diversity is essential to our advancement as a research group and to our growth as human beings. 
 
-_In our lab..._
-
+In our lab::
 - we value the scientific contributions of all lab members and appreciate the inherent dignity and worth of everyone
 - we actively seek to engage with distinct individuals, perspectives, and ideas
 
@@ -101,11 +102,12 @@ _In our lab..._
 
 We all belong here. 
 
-_In our lab..._
-
+In our lab::
 - we provide mentoring to learn the scientific and cultural aspects of the lab
 - we share knowledge for the benefit of all, not the advancement of some
 - we promote strong relationships and cultivate a welcoming environment
+
+'''
 
 == The mentor-mentee relationship
 
@@ -116,6 +118,8 @@ Scientific creativity and innovation necessitate diversity. Heterogenous groups 
 Through my experiences, I have learned that a necessary part of being an inclusive mentor is to listen and to seek feedback from peers and trainees that see the world differently or come from different backgrounds. I am committed to using this feedback system to help establish and maintain a culture of acceptance and inclusion in my lab, department, and institution. It is critically important that mentors set standards for maintaining an inclusive, diverse, and anti-racist culture. I will formalize those practices within mentorship contracts that detail the rights and responsibilities of both parties in the mentor-mentee relationship. For those in my lab, I will implement strategies to make myself accessible and to ensure that I monitor my trainees’ mental health and progress in a non-intrusive and careful manner. As individuals, we often do not have the perspective nor the experience to relate to everyone around us. Therefore, we must actively promote inclusive culture for effective trainee mentorship and to connect the diversity of people needed to produce truly innovative thought.
 
 Teaching is not limited to the classroom and mentorship is not limited to one’s own lab. Our lab supports expansive career training, not only to fulfill the university’s research mission, but also to prepare mentees for the many career paths in which their training can make positive impacts on the world.
+
+'''
 
 ## My tenets of mentoring
 
@@ -134,5 +138,7 @@ I firmly believe that one’s best work can only come arise from spaces where on
 ### Communication
 
 At the core of successful mentorship is communication. I will check in regularly with my mentee to gauge how my mentoring style and the lab's culture is working for them. These conversations will take place privately and will serve as a safe space to discuss any issues that have arisen, either from my perspective or the perspective of my mentee. I will always work to tailor my mentoring style towards the needs of my mentee and provide solutions rooted in experience where appropriate. I acknowledge that there may be instances where I can only offer an ear to listen to my mentee and may not be equipped to offer advice on a particular issue. I aim to be well-versed in resources available for areas outside of my experience and to guide mentees to these resources when appropriate.
+
+'''
 
 _Some sections herein are adapted from the Handelman lab AJEDI statement and Chris Thomas' mentoring philosophy._

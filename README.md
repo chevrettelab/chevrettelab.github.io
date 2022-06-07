@@ -47,7 +47,11 @@ Build and locally host site: `yarn site` (off a fresh clone, run `yarn setup` fi
 https://jekyll.one/pages/public/learn/kickstart/web_in_a_day/create_content/
 
 ## Important files to edit for content:
-Almost everything worth editing lives in the `_data` dir. If you can't find what you're looking for below, odds are it's somewhere in `_data`.
+
+Almost everything worth editing lives in the `_data` or `pages` dirs. If you can't find what you're looking for below, odds are it's somewhere in `_data`.
+
+Note: `*.adoc` markup is a little strange, so see https://docs.asciidoctor.org/asciidoc/latest/ for a cheat sheet
+
 - `_config.yml` for the main site components
 - `pages/public/*/*.adoc` for static (non-news) pages
 - `_data/modules/navigator_menu.yml` for nav bar menu

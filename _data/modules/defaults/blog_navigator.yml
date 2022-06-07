@@ -217,7 +217,7 @@ defaults:
       enabled:                          true
 
       en:
-        headline:                       Preview
+        headline:                       Preview posts
         description: >
                                         All articles are reverse ordered by date. The current articles are displayed
                                         first. From the FAB button <a href="#" class="btn-fab-floating btn-small btn-md-blue">
