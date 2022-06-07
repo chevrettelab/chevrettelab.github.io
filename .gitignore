@@ -1,0 +1,5 @@
+# Ignore build stuff in source branch
+node_modules
+_site
+package-lock.json
+yarn.lock
