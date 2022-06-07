@@ -52,16 +52,25 @@ endif::[]
 // Include sub-documents (if any)
 // -----------------------------------------------------------------------------
 
+:headshot_size: 250
+:icon_size: 32
+:c1ratio: 1
+:c2ratio: 3
+
 == Former Postdoctoral Researchers
-[cols=".^1,.^3"]
+[cols=".^{c1ratio},.^{c2ratio}"]
 |===
-a|image::/mc_assets/team/no_pic.jpg[example, 250, 250]
+a|image::/mc_assets/team/no_pic.jpg[example, {headshot_size}, {headshot_size}]
 a|placeholder
 |===
 
 == Former Graduate Students
-[cols=".^1,.^3"]
+[cols=".^{c1ratio},.^{c2ratio}"]
 |===
-a|image::/mc_assets/team/no_pic.jpg[example, 250, 250]
+a|image::/mc_assets/team/no_pic.jpg[example, {headshot_size}, {headshot_size}]
 a|placeholder
 |===
+
+'''
+
+link:/pages/public/team/current/site/[Current team]

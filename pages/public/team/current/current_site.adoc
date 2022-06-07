@@ -52,10 +52,15 @@ endif::[]
 // Include sub-documents (if any)
 // -----------------------------------------------------------------------------
 
+:headshot_size: 250
+:icon_size: 32
+:c1ratio: 1
+:c2ratio: 3
+
 == Principal Investigator
-[cols=".^1,.^3"]
+[cols=".^{c1ratio},.^{c2ratio}"]
 |===
-a|image::/mc_assets/team/Chevrette.png[Marc, 250, 250]
+a|image::/mc_assets/team/Chevrette.png[Marc, {headshot_size}, {headshot_size}]
 a|*Marc G Chevrette, PhD* +
 Assistant Professor, Department of Microbiology & Cell Science +
 
@@ -64,18 +69,29 @@ Assistant Professor, Department of Microbiology & Cell Science +
 * MSc: Genetics, University of Wisconsin-Madison (Currie) +
 * MSc: Biotechnology (Bioengineering), Harvard University Extension (Maira-Litrán) +
 * BSc: Molecular Biology & Bioinformatics, Rensselaer Polytechnic Institute
+
+image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:mchevrette@ufl.edu]
+image:/mc_assets/icons/twitter.png[twitter, {icon_size}, {icon_size}, link=https://twitter.com/wildtypeMC]
+image:/mc_assets/icons/scholar.png[scholar, {icon_size}, {icon_size}, link=https://scholar.google.com/citations?hl=en&user=VX3Laf8AAAAJ]
 |===
 
 == Graduate Students
-[cols=".^1,.^3"]
+[cols=".^{c1ratio},.^{c2ratio}"]
 |===
-a|image::/mc_assets/team/no_pic.jpg[example, 250, 250]
+a|image::/mc_assets/team/no_pic.jpg[example, {headshot_size}, {headshot_size}]
 a|placeholder
 |===
 
 == Research Staff
-[cols=".^1,.^3"]
+[cols=".^{c1ratio},.^{c2ratio}"]
 |===
-a|image::/mc_assets/team/no_pic.jpg[example, 250, 250]
+a|image::/mc_assets/team/no_pic.jpg[example, {headshot_size}, {headshot_size}]
+a|placeholder
+
+a|image::/mc_assets/team/no_pic.jpg[example, {headshot_size}, {headshot_size}]
 a|placeholder
 |===
+
+'''
+
+link:/pages/public/team/alum/site/[Lab alumni]

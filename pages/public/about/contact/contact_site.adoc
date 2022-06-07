@@ -52,6 +52,6 @@ endif::[]
 // Include sub-documents (if any)
 // -----------------------------------------------------------------------------
 
-== This site is under construction
+== Contact us
 
-Check back soon :)
+Please direct general lab inquiries to Marc at mchevrette (at) ufl (dot) edu.
