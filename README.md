@@ -38,24 +38,26 @@ If on windows, fix eventmachine issues (see https://stackoverflow.com/questions/
 
 Set up new project: `j1 generate ./ --force`
 Setup site: `yarn setup`
-## Note: yarn reset will reset to factory if need be
+- Note: yarn reset will reset to factory if need be
+
 Build and locally host site: `yarn site`
 
 https://jekyll.one/pages/public/learn/kickstart/web_in_a_day/create_content/
+
 Stuff to edit:
-	- _config.yml for the main site components
-	- pages/public/*/*.adoc for static (non-news) pages
-	- _data/modules/navigator_menu.yml for nav bar menu
-	- _data/modules/navigator.yml for nav bar buttons and layout
-	- _data/modules/defaults/navigator.yml for nav bar buttons
-	## Note: Icon gallery https://jekyll.one/pages/public/previewer/mdi_font/
-	## Note: turning icons on/off in the nav bar requires proper mdi icon names (default j1 messed up github)
-	- _data/blocks/banner.yml for the banner content on the homepage
-	- _data/blocks/panel.yml for the middle content panels on the homepage (and elsewhere)
-	- _data/blocks/footer.yml for the bottom content panels on the homepage (and elsewhere)
-	- collections/posts/public/*/* for news (blog) items
-	- pages/public/blog/navigator/index.html (actually a yml/markdown) for blog landing page
-	- index.html for the home page
+- _config.yml for the main site components
+- pages/public/*/*.adoc for static (non-news) pages
+- _data/modules/navigator_menu.yml for nav bar menu
+- _data/modules/navigator.yml for nav bar buttons and layout
+- _data/modules/defaults/navigator.yml for nav bar buttons
+  - Note: Icon gallery https://jekyll.one/pages/public/previewer/mdi_font/
+  - Note: turning icons on/off in the nav bar requires proper mdi icon names (default j1 messed up github)
+- _data/blocks/banner.yml for the banner content on the homepage
+- _data/blocks/panel.yml for the middle content panels on the homepage (and elsewhere)
+- _data/blocks/footer.yml for the bottom content panels on the homepage (and elsewhere)
+- collections/posts/public/*/* for news (blog) items
+- pages/public/blog/navigator/index.html (actually a yml/markdown) for blog landing page
+- index.html for the home page
 	
 How to deploy:
 
