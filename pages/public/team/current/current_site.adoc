@@ -52,6 +52,30 @@ endif::[]
 // Include sub-documents (if any)
 // -----------------------------------------------------------------------------
 
-== Under construction
+== Principal Investigator
+[cols=".^1,.^3"]
+|===
+a|image::/mc_assets/team/Chevrette.png[Marc, 250, 250]
+a|*Marc G Chevrette, PhD* +
+Assistant Professor, Department of Microbiology & Cell Science +
 
-Check back soon.
+* Postdoctoral research: Wisconsin Insitute for Discovery (Handelsman) +
+* PhD: Genetics, University of Wisconsin-Madison (Currie) +
+* MSc: Genetics, University of Wisconsin-Madison (Currie) +
+* MSc: Biotechnology (Bioengineering), Harvard University Extension (Maira-Litrán) +
+* BSc: Molecular Biology & Bioinformatics, Rensselaer Polytechnic Institute
+|===
+
+== Graduate Students
+[cols=".^1,.^3"]
+|===
+a|image::/mc_assets/team/no_pic.jpg[example, 250, 250]
+a|placeholder
+|===
+
+== Research Staff
+[cols=".^1,.^3"]
+|===
+a|image::/mc_assets/team/no_pic.jpg[example, 250, 250]
+a|placeholder
+|===
