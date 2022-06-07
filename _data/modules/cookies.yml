@@ -24,12 +24,12 @@ description:
 # User configuration settings
 #
 settings:
-  enabled:                              true
+  enabled:                              false
 
   # ----------------------------------------------------------------------------
   # Switches
   # ----------------------------------------------------------------------------
-  checkCookies:                         true
+  checkCookies:                         false
   
 # ------------------------------------------------------------------------------
 # END config

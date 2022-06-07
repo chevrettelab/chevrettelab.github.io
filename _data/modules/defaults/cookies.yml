@@ -28,7 +28,7 @@ description:
 # Default settings
 #
 defaults:
-  enabled:                              true
+  enabled:                              false
 
   # ----------------------------------------------------------------------------
   # Switches
