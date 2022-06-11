@@ -102,7 +102,7 @@ settings:
                                         at the 
                                         <a href="https://www.ufl.edu/">University of Florida</a>.
                                         <br><br>
-                                        <b>This site is currently under construction.</b>
+                                        <meta http-equiv="pragma" content="no-cache" />
 
             justify:                    true
 

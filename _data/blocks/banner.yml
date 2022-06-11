@@ -160,7 +160,8 @@ settings:
                                           <li>reductionist, experimental systems to gain mechanistic insight</li>
                                           <li>naturally-occurring, host-associated microbiomes</li>
                                           </ol>
-                                        </p><p></p>
+                                        </p>
+                                        <br>
               buttons:
 
 #               - name:                 Features
