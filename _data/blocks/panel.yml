@@ -47,8 +47,7 @@ settings:
         tagline:                        Find out about what we do
         description_properties:         mt-3 mr-3 mb-3
         description: >
-                                        <p class="dropcap">
-                                          Under construction :)
+                                        <p>
                                         </p>
 
         style:                          flat
@@ -57,14 +56,14 @@ settings:
 
         cards:
 
-          - name:                       First thing
+          - name:                       research1
             card:
               enabled:                  true
               type:                     text
-              title:                    First thing
+              title:                    Secondary metabolism
               title_translate:          notranslate                             # translate|notranslate
               tagline:                  We do this
-              icon:                     tools
+              icon:                     bacteria-outline
               icon_family:              MDI
               icon_size:                3x
               icon_color:
@@ -84,14 +83,14 @@ settings:
                     icon_color:
                     href:               /pages/public/panels/intro_panel#current-technology
 
-          - name:                       Second thing
+          - name:                       research2
             card:
               enabled:                  true
               type:                     text
-              title:                    Second
+              title:                    Microbiome interactions
               title_translate:          notranslate                             # translate|notranslate
               tagline:                  We do this too
-              icon:                     responsive
+              icon:                     transit-detour
               icon_family:              MDI
               icon_size:                3x
               icon_color:
@@ -112,14 +111,14 @@ settings:
                     icon_color:
                     href:               /pages/public/panels/intro_panel#responsive-design
 
-          - name:                       Third thing
+          - name:                       research3
             card:
               enabled:                  true
               type:                     text
-              title:                    Third
+              title:                    Antibiotic discovery
               title_translate:          notranslate                             # translate|notranslate
               tagline:                  Sometimes we do this
-              icon:                     clock
+              icon:                     pill
               icon_family:              MDI
               icon_size:                3x
               icon_color:
