@@ -34,7 +34,6 @@ resource_options:
 
 // Place an excerpt at the most top position
 // -----------------------------------------------------------------------------
-[role="dropcap"]
 The Chevrette Lab will be joining the Department of Microbiology & Cell Science at the University of Florida in August 2022!
 
 excerpt__end

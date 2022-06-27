@@ -103,7 +103,7 @@ settings:
     #
     skipAllHosts:                       localhost, 127.0.0.1
 
-    trackingID:                         '<your-tracking-id>'                    # set a vaild your-tracking-id
+    trackingID:                         G-LZQRG2DCFB
     optInOut:                           true
     anonymizeIP:                        true
 

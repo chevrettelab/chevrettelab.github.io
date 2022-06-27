@@ -62,26 +62,27 @@ settings:
               type:                     text
               title:                    Secondary metabolism
               title_translate:          notranslate                             # translate|notranslate
-              tagline:                  We do this
+              tagline:                  secmet
               icon:                     bacteria-outline
               icon_family:              MDI
               icon_size:                3x
               icon_color:
               text: >
-                                        <p class="dropcap mt-3">
-                                          Under construction.
+                                        <p>
+                                            Biosynthesis and function of secondary metabolites through an evoluitonary framework.
                                         </p>
+                                        <img src="/mc_assets/transat_evo.png" alt="transat_evo.png">
 
               buttons:
                 - name:                 Read More
                   button:
                     type:               text
-                    text:               link to first
+                    text:               research overview
                     class:
                     icon:
                     icon_size:
                     icon_color:
-                    href:               /pages/public/panels/intro_panel#current-technology
+                    href:               /pages/public/research_overview/site
 
           - name:                       research2
             card:
@@ -89,27 +90,28 @@ settings:
               type:                     text
               title:                    Microbiome interactions
               title_translate:          notranslate                             # translate|notranslate
-              tagline:                  We do this too
+              tagline:                  interactions
               icon:                     transit-detour
               icon_family:              MDI
               icon_size:                3x
               icon_color:
               text: >
-                                        <p class="dropcap mt-3">
-                                          Under construction.
+                                        <p>
+                                            Metabolite mediated interactions in model communities.
                                         </p>
+                                        <img src="/mc_assets/thor_bgc_rnaseq.png" alt="thor_bgc_rnaseq.png">
 
               buttons:
 
                 - name:                 Read More
                   button:
                     type:               text
-                    text:               link to second
+                    text:               research overview
                     class:
                     icon:
                     icon_size:
                     icon_color:
-                    href:               /pages/public/panels/intro_panel#responsive-design
+                    href:               /pages/public/research_overview/site
 
           - name:                       research3
             card:
@@ -123,20 +125,21 @@ settings:
               icon_size:                3x
               icon_color:
               text: >
-                                        <p class="dropcap mt-3">
-                                          Under construction.
+                                        <p>
+                                            Natural systems as a source for new microbial chemistry.
                                         </p>
+                                        <img src="/mc_assets/def_symbiosis.png" alt="def_symbiosis.png">
 
               buttons:
                 - name:                 Read More
                   button:
                     type:               text
-                    text:               click for third
+                    text:               research overview
                     class:
                     icon:
                     icon_size:
                     icon_color:
-                    href:               /pages/public/panels/intro_panel#launch-ready
+                    href:               /pages/public/research_overview/site
 
   # ----------------------------------------------------------------------------
   # NEWS Panel
