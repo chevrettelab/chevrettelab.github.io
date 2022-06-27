@@ -97,8 +97,8 @@ defaults:
     #
     skipAllHosts:                       localhost, 127.0.0.1
     
-    trackingID:                         G-LZQRG2DCFB
-    optInOut:                           true
+    trackingID:                         'G-LZQRG2DCFB'
+    optInOut:                           false
     anonymizeIP:                        true
 
 # ------------------------------------------------------------------------------

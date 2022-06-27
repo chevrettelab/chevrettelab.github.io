@@ -407,7 +407,7 @@ analytics:
   enabled:                              true
   provider:                             google
   google:
-    tracking_id:                        G-LZQRG2DCFB
+    tracking_id:                        'G-LZQRG2DCFB'
   custom:
     custom_data:
 
