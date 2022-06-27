@@ -404,10 +404,10 @@ comments:
 # Set 'provider' to the analytics provider you want to use
 #
 analytics:
-  enabled:                              false
+  enabled:                              true
   provider:                             google
   google:
-    tracking_id:                        'UA-138160879-1'
+    tracking_id:                        G-LZQRG2DCFB
   custom:
     custom_data:
 
@@ -418,7 +418,7 @@ analytics:
 # Set 'provider' to the analytics provider you want to use
 #
 advertising:
-  enabled:                              true
+  enabled:                              false
   provider:                             custom
   google:
     publisher_id:                       ca-pub-6537273267695855
