@@ -13,7 +13,7 @@
  # J1 Template is licensed under the MIT License.
  # For details, see: https://github.com/jekyll-one-org/j1-template/blob/main/LICENSE.md
  # -----------------------------------------------------------------------------
- # Adapter generated: 2022-06-27 05:45:11 +0000
+ # Adapter generated: 2022-06-27 06:03:44 +0000
  # -----------------------------------------------------------------------------
 */
 // -----------------------------------------------------------------------------
@@ -112,7 +112,7 @@ j1.adapter.logger = (function (j1, window) {
       // -----------------------------------------------------------------------
       var settings = $.extend({
         module_name: 'j1.adapter.logger',
-        generated:   '2022-06-27 05:45:11 +0000'
+        generated:   '2022-06-27 06:03:44 +0000'
       }, options);
       /* eslint-disable */
       loggerOptions       = $.extend({}, {"enabled":true, "appenders":[{"name":"Console Appender", "appender":{"name":"consoleAppender", "enabled":true}}, {"name":"Ajax Appender", "appender":{"name":"ajaxAppender", "enabled":false}}, {"name":"Popup Appender", "appender":{"name":"popupAppender", "enabled":false}}], "loggers":[{"name":"Parent Logger", "logger":{"type":"parent", "name":"j1", "appender":["consoleAppender", "ajaxAppender"], "level":{"production":"warn", "development":"debug"}}}], "tz_offset":"GMT+01:00"});
