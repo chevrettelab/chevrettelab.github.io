@@ -13,7 +13,7 @@
  # J1 Template is licensed under the MIT License.
  # For details, see: https://github.com/jekyll-one-org/j1-template/blob/main/LICENSE.md
  # -----------------------------------------------------------------------------
- #  Adapter generated: 2022-06-12 23:43:55 +0000
+ #  Adapter generated: 2022-06-27 05:03:17 +0000
  # -----------------------------------------------------------------------------
 */
 // -----------------------------------------------------------------------------
@@ -27,7 +27,7 @@ var url             = new liteURL(window.location.href);
 var hostname        = url.hostname;
 var environment     = 'development';
 var gaScript        = document.createElement('script');
-var providerID      = '<your-tracking-id>';
+var providerID      = 'G-LZQRG2DCFB';
 var skipAllHosts    = 'localhost, 127.0.0.1';
 var validProviderID = (providerID.includes('your')) ? false : true;
 var optInOut        = true;
@@ -60,7 +60,7 @@ var logText;
       // -----------------------------------------------------------------------
       var settings = $.extend({
         module_name: 'j1.adapter.analytics',
-        generated:   '2022-06-12 23:43:55 +0000'
+        generated:   '2022-06-27 05:03:17 +0000'
       }, options);
       // -----------------------------------------------------------------------
       // Global variable settings
