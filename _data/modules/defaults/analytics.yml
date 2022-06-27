@@ -50,7 +50,7 @@ defaults:
   #
   # ----------------------------------------------------------------------------
   #
-  enabled:                              false
+  enabled:                              true
   provider:                             google
 
   google:
@@ -96,7 +96,8 @@ defaults:
     # --------------------------------------------------------------------------
     #
     skipAllHosts:                       localhost, 127.0.0.1
-
+    
+    trackingID:                         G-LZQRG2DCFB
     optInOut:                           true
     anonymizeIP:                        true
 
