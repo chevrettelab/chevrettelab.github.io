@@ -99,7 +99,7 @@ defaults:
     
     trackingID:                         G-LZQRG2DCFB
     optInOut:                           false
-    anonymizeIP:                        true
+    anonymizeIP:                        false
 
 # ------------------------------------------------------------------------------
 # END config
