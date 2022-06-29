@@ -6,3 +6,4 @@ package-lock.json
 .jekyll-cache
 .jekyll-metadata
 install.log
+package.json

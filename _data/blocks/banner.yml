@@ -351,7 +351,7 @@ settings:
               gridify:                    true
               size_y:                     450
               darken:                     6
-              background_image:           /assets/images/modules/attics/uf_back_blue.jpg
+              background_image:           /mc_assets/uf_back_blue.jpg
 
   # ----------------------------------------------------------------------------
   # FOO Banner

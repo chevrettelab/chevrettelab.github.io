@@ -5,7 +5,7 @@ tagline:                                Chevrette lab coming to UF!
 categories:                             [ News ]
 tags:                                   [ General ]
 
-image:                                  /assets/images/modules/attics/uf_back_blue.jpg
+image:                                  /mc_assets/uf_back_blue.jpg
 
 fab_menu_id:                            default
 
@@ -18,7 +18,7 @@ resource_options:
       padding_bottom:                   50
       opacity:                          0.5
       slides:
-        - url:                          /assets/images/modules/attics/uf_back_blue.jpg
+        - url:                          /mc_assets/uf_back_blue.jpg
 ---
 
 // Page Initializer
