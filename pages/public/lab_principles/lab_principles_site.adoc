@@ -141,4 +141,4 @@ At the core of successful mentorship is communication. I will check in regularly
 
 '''
 
-_Some sections herein are adapted from the Handelman lab AJEDI statement and Chris Thomas' mentoring philosophy._
+_Some sections herein are adapted from the Handelsman lab AJEDI statement and Chris Thomas' mentoring philosophy._
