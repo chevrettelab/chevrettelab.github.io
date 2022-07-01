@@ -197,7 +197,7 @@ settings:
                     icon_color:
                     icon_size:          3x
                     href:               /pages/public/research_overview/site/
-                    target:
+                    target:             blank
 
                 - name:                 Team
                   button:
