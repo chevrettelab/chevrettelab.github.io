@@ -157,14 +157,20 @@ settings:
                                           <li>Where should we look to find new antibiotics and other bioactive secondary metabolites?</li>
                                           <li>How can we best integrate genomic, transcriptomic, metabolomic, and other large data sets to uncover the underlying principles of interspecies interactions in microbiomes?</li>
                                         </ul></i></p>
-                                        <center><img src="/mc_assets/wheel.png" alt="wheel.png"></center>
-                                        <p>
-                                          Our research aims to address these questions by connecting the evolution of biosynthetic gene clusters and their chemical products to their functional ecology. This is currently explored in two major research areas:
-                                          <ol type="i">
-                                          <li>reductionist, experimental systems to gain mechanistic insight</li>
-                                          <li>naturally occurring, host-associated microbiomes</li>
-                                          </ol>
-                                        </p>
+                                        <table style="border-collapse: collapse; border: none;">
+                                          <tr style="border: none;">
+                                            <td style="border: none;">
+                                              <center><img src="/mc_assets/wheel.png" alt="wheel.png"></center>
+                                            </td>
+                                            <td style="border: none; font-size:120%;">
+                                              Our research aims to address these questions by connecting the evolution of biosynthetic gene clusters and their chemical products to their functional ecology. This is currently explored in two major research areas:
+                                              <ol type="i">
+                                                <li>reductionist, experimental systems to gain mechanistic insight</li>
+                                                <li>naturally occurring, host-associated microbiomes</li>
+                                              </ol>
+                                            </td>
+                                          </tr>
+                                        </table>
                                         <br>
               buttons:
 
@@ -351,7 +357,7 @@ settings:
               gridify:                    true
               size_y:                     450
               darken:                     6
-              background_image:           /mc_assets/uf_back_blue.jpg
+              background_image:           /mc_assets/strep_myxo.png
 
   # ----------------------------------------------------------------------------
   # FOO Banner
