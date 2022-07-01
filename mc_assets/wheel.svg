@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="91.804138mm"
-   height="88.265663mm"
-   viewBox="0 0 91.804138 88.265663"
+   width="166mm"
+   height="159.40176mm"
+   viewBox="0 0 166 159.40176"
    version="1.1"
    id="svg8795"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
@@ -364,10 +364,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-66.45398,-47.569535)">
+     transform="translate(-66.453979,-47.569543)">
     <g
        id="g8592"
-       transform="translate(67.737925,-110.79586)">
+       transform="matrix(1.8647119,0,0,1.8647119,66.254032,-250.33043)">
       <g
          id="g8636"
          transform="matrix(0.75977139,0,0,0.75977139,27.664591,69.819543)">
