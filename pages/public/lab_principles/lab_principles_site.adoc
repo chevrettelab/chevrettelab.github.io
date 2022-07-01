@@ -58,6 +58,9 @@ Research and our experience both show that diverse groups generate better ideas 
 
 We welcome and value diverse people in our lab and expect each lab member to uphold high standards of integrity and respect. We do not tolerate discrimination based on, but not limited to, ability, age, experience, and identities (e.g., race, ethnicity, gender, sexual orientation, and religion). We believe that each of us has a responsibility to prevent or address unfair behaviors within our lab and scientific environments and to contribute to a welcoming environment.
 
+[.text-center]
+image::/mc_assets/diversity1.png[diversity1,300,150]
+
 '''
 
 ## We aim to build a safe, welcoming, and supportive lab environment by
