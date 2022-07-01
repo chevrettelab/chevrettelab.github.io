@@ -133,10 +133,10 @@ Teaching is not limited to the classroom and mentorship is not limited to one’
 
 == My tenets of mentoring
 
-[#img-ducks]
+[#img-happy]
 [.text-center]
-.© Disney
-image::/mc_assets/ducks.png[ducks,576,300]
+.© Universal
+image::/mc_assets/happy.jpg[happy,656,300]
 
 === Growth
 
