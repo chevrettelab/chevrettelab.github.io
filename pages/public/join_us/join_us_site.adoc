@@ -52,11 +52,11 @@ endif::[]
 // Include sub-documents (if any)
 // -----------------------------------------------------------------------------
 
-## Interested in working _with_ or _in_ the Chevrette Lab?
+== Interested in working _with_ or _in_ the Chevrette Lab?
 
 '''
 
-### Graduate Students
+=== Graduate Students
 
 We enthusiastically welcome prospective students to visit and rotate in our lab in order to experience our training philosophy and learn more about current projects. Please contact Marc Chevrette at mchevrette (at) ufl (dot) edu about potential rotations, indicating your research interests and why you'd like to work with us. If you have yet to apply to graduate school, https://microcell.ufl.edu/graduate-program/[click here] to learn more about graduate studies in the Department of Microbiology & Cell Science @ UF.
 
@@ -66,18 +66,18 @@ The Chevrette Lab currently accepts graduate students from the following program
 
 '''
 
-### Postdoctoral applicants
+=== Postdoctoral applicants
 
 Please send a cover letter indicating your specific motivations for applying to the lab, a CV, and three letters of recommendation to mchevrette (at) ufl (dot) edu
 
 '''
 
-### Collaborations
+=== Collaborations
 
 If you are interested in a collaboration please contact Marc at mchevrette (at) ufl (dot) edu for more information.
 
 '''
 
-### Undergraduates
+=== Undergraduates
 
 We occasionally have positions for undergraduate researchers. An excellent work ethic, flexible schedule, and genuine interest in laboratory research are required attributes of all prospective applicants. Undergraduates are required to work for at least one year in our group. Students beginning their sophomore or junior year are preferred. Interested students should email Dr. Chevrette at mchevrette (at) ufl (dot) edu. The email should indicate why you would like to join the lab, your expected graduation date, post-graduation plans (if known), and include the contact information for at least one personal reference (ideally a professor or TA). Please indicate whether you are interested in an hourly wage or research credit. Individuals from underrepresented groups in science are especially encouraged to apply.

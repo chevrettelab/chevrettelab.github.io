@@ -59,11 +59,11 @@ Research and our experience both show that diverse groups generate better ideas 
 We welcome and value diverse people in our lab and expect each lab member to uphold high standards of integrity and respect. We do not tolerate discrimination based on, but not limited to, ability, age, experience, and identities (e.g., race, ethnicity, gender, sexual orientation, and religion). We believe that each of us has a responsibility to prevent or address unfair behaviors within our lab and scientific environments and to contribute to a welcoming environment.
 
 [.text-center]
-image::/mc_assets/diversity1.png[diversity1,300,150]
+image::/mc_assets/diversity1.png[diversity1,350,469]
 
 '''
 
-## We aim to build a safe, welcoming, and supportive lab environment by
+== We aim to build a safe, welcoming, and supportive lab environment by
 
 - acknowledging each lab member’s needs and unique voice
 - trusting one another to hear and be heard
@@ -76,7 +76,7 @@ image::/mc_assets/diversity1.png[diversity1,300,150]
 
 __Antiracism, Justice, Equity, Diversity, & Inclusion__
 
-### Antiracism
+=== Antiracism
 
 Each of us must explicitly and proactively oppose racism in our research, words, and actions.
 
@@ -84,7 +84,7 @@ In our lab::
 - we strive to reshape our behavior and biases to actively learn about our scientific history while challenging harmful notions of race and culture
 - we speak out against harmful racist language and behavior that is both explicit & implicit
 
-### Justice & Equity
+=== Justice & Equity
 
 We are all equally deserving of respect and fair treatment. We strive to accept that each of us has unique needs. Intentional action and just behavior prevents and corrects injustice to ensure that all people are treated fairly. 
 
@@ -93,7 +93,7 @@ In our lab::
 - we each have the responsibility to advocate for ourselves and others and to speak out when opportunity is not offered
 - we learn from our mistakes to maintain the safety and respect of each individual
 
-### Diversity 
+=== Diversity 
 
 We are all unique. Our diverse backgrounds and experiences make us better at tackling problems together and are important for our collective success. Diversity is essential to our advancement as a research group and to our growth as human beings. 
 
@@ -101,7 +101,7 @@ In our lab::
 - we value the scientific contributions of all lab members and appreciate the inherent dignity and worth of everyone
 - we actively seek to engage with distinct individuals, perspectives, and ideas
 
-### Inclusion
+=== Inclusion
 
 We all belong here. 
 
@@ -124,21 +124,21 @@ Teaching is not limited to the classroom and mentorship is not limited to one’
 
 '''
 
-## My tenets of mentoring
+== My tenets of mentoring
 
-### Growth
+=== Growth
 
 Positive scientific, professional, and personal growth is the ideal outcome for mentors and mentees alike. Growth can come in many different and unexpected forms. We will fail, succeed, and grow together. While we strive for positive research outcomes, I will support all mentees' career aspirations and goals, acknowledging that these  will often change over time. Effective mentorship should foster growth in all its forms, above all else.
 
-### Trust
+=== Trust
 
 Effective mentorship is built on trust. As a mentor, I will trust that my mentees are being honest with me, discussing the challenges they face both in and (if comfortable) out of the lab. I will trust my mentees are giving their best effort and will engage with me when clarification and/or support are needed. Mentees will have the best experiences if they put their trust in me as a mentor to have their best interests in mind. I acknowledge that this trust is not a given; it must be earned through fostering an environment of authenticity. 
 
-### Authenticity
+=== Authenticity
 
 I firmly believe that one’s best work can only come arise from spaces where one can be their authentic self. Everyone has unique identities and experiences that may or not be shared with me. Thus, it is my responsibility to create a space to allow for mentees to feel comfortable sharing experiences that may be unique to themselves. It’s through sharing these experiences that we can grow. Fostering a welcoming and inclusive environment is vital to successful mentorship and lays the groundwork for open and effective communication.
 
-### Communication
+=== Communication
 
 At the core of successful mentorship is communication. I will check in regularly with my mentee to gauge how my mentoring style and the lab's culture is working for them. These conversations will take place privately and will serve as a safe space to discuss any issues that have arisen, either from my perspective or the perspective of my mentee. I will always work to tailor my mentoring style towards the needs of my mentee and provide solutions rooted in experience where appropriate. I acknowledge that there may be instances where I can only offer an ear to listen to my mentee and may not be equipped to offer advice on a particular issue. I aim to be well-versed in resources available for areas outside of my experience and to guide mentees to these resources when appropriate.
 
