@@ -59,9 +59,9 @@ Research and our experience both show that diverse groups generate better ideas 
 
 We welcome and value diverse people in our lab and expect each lab member to uphold high standards of integrity and respect. We do not tolerate discrimination based on, but not limited to, ability, age, experience, and identities (e.g., race, ethnicity, gender, sexual orientation, and religion). We believe that each of us has a responsibility to prevent or address unfair behaviors within our lab and scientific environments and to contribute to a welcoming environment.
 
-[#img-div]
+[#img-we_believe]
 [.text-center]
-image::/mc_assets/diversity1.png[diversity1,350,469]
+image::/mc_assets/we_believe.png[we_believe,877,350]
 
 '''
 
@@ -124,6 +124,11 @@ image::/mc_assets/yoda.png[yoda,600,300]
 My primary teaching goals, both in the lab and in the classroom, are to encourage scientific curiosity and empower problem-solving creativity. Our top priority in higher education should be to instill strong foundations in scientific literacy and critical thinking in our students, independent of their background or ultimate career path. In particular, training in the interpretation of biological data gives students the tools to make sense of the world around them and evaluate new information. From large introductory courses to upper-level undergraduate classrooms, it is necessary to supplement lectures with interactive learning opportunities and exercises to encourage analytical thinking. Graduate-level courses should build towards mastery of relevant literature, reinforce the interdisciplinary nature of science, and advance students’ ability to effectively communicate complex scientific ideas. My goal as a mentor is to help students grow from knowledge consumers into knowledge creators while ensuring trainee metal health and inclusive lab culture. My aim is to provide the foundations and skills for lifelong engagement in STEM. 
 
 Scientific creativity and innovation necessitate diversity. Heterogenous groups foster different approaches and are more creative and thorough than those that lack diversity (Handelsman et al. 2006. Scientific Teaching; McLeod et al. 1996. Small Group Res.). Gender, racial, and ethnic underrepresented groups in STEM make up 68% of undergraduate students, yet their retention in STEM remains a major challenge at every subsequent level (Graham et al. 2013. Science.). While learning experiences are individual, bias can have large impacts on how certain groups experience the scientific environment. Many women and LGBTQ+ students leave science due to alienating and/or hostile environments and black students switch from STEM to non-STEM majors twice as frequently as white students (Handelsman et al. 2006. Scientific Teaching). Minority students at predominantly white institutions experience even greater barriers (Handelsman et al. 2005. Entering Mentoring.). At some level, these issues stem from (or are exacerbated by) a lack of mentoring. If we are to create an inclusive culture in the classroom and the lab, those in positions of power and privilege must actively and continually assess how the environments they create impact different groups and how to counteract unconscious biases.
+
+[#img-knope]
+[.text-center]
+.© NBC
+image::/mc_assets/knope.jpg[knope,625,294]
 
 Through my experiences, I have learned that a necessary part of being an inclusive mentor is to listen and to seek feedback from peers and trainees that see the world differently or come from different backgrounds. I am committed to using this feedback system to help establish and maintain a culture of acceptance and inclusion in my lab, department, and institution. It is critically important that mentors set standards for maintaining an inclusive, diverse, and anti-racist culture. I will formalize those practices within mentorship contracts that detail the rights and responsibilities of both parties in the mentor-mentee relationship. For those in my lab, I will implement strategies to make myself accessible and to ensure that I monitor my trainees’ mental health and progress in a non-intrusive and careful manner. As individuals, we often do not have the perspective nor the experience to relate to everyone around us. Therefore, we must actively promote inclusive culture for effective trainee mentorship and to connect the diversity of people needed to produce truly innovative thought.
 
