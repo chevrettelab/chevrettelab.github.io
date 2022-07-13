@@ -57,19 +57,25 @@ endif::[]
 :c1ratio: 1
 :c2ratio: 3
 
-== Former Postdoctoral Researchers
+== Nobody yet! We're brand new :)
+
+////
+== Former Postdoctoral Associates
 [cols=".^{c1ratio},.^{c2ratio}"]
 |===
 a|image::/mc_assets/team/no_pic.jpg[example, {headshot_size}, {headshot_size}]
 a|placeholder
 |===
+////
 
+////
 == Former Graduate Students
 [cols=".^{c1ratio},.^{c2ratio}"]
 |===
 a|image::/mc_assets/team/no_pic.jpg[example, {headshot_size}, {headshot_size}]
 a|placeholder
 |===
+////
 
 '''
 

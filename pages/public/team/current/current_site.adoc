@@ -74,22 +74,33 @@ image:/mc_assets/icons/twitter.png[twitter, {icon_size}, {icon_size}, link=https
 image:/mc_assets/icons/scholar.png[scholar, {icon_size}, {icon_size}, link=https://scholar.google.com/citations?hl=en&user=VX3Laf8AAAAJ]
 |===
 
+== Postdoctoral Associates
+[cols=".^{c1ratio},.^{c2ratio}"]
+|===
+a|image::/mc_assets/team/gator_headshot.png[example, {headshot_size}, {headshot_size}]
+a|placeholder
+|===
+
+////
 == Graduate Students
 [cols=".^{c1ratio},.^{c2ratio}"]
 |===
-a|image::/mc_assets/team/no_pic.jpg[example, {headshot_size}, {headshot_size}]
-a|placeholder
+// a|image::/mc_assets/team/no_pic.jpg[example, {headshot_size}, {headshot_size}]
+// a|placeholder
 |===
+////
 
+////
 == Research Staff
 [cols=".^{c1ratio},.^{c2ratio}"]
 |===
-a|image::/mc_assets/team/no_pic.jpg[example, {headshot_size}, {headshot_size}]
+a|image::/mc_assets/team/gator_headshot.png[example, {headshot_size}, {headshot_size}]
 a|placeholder
 
 a|image::/mc_assets/team/no_pic.jpg[example, {headshot_size}, {headshot_size}]
 a|placeholder
 |===
+////
 
 '''
 
