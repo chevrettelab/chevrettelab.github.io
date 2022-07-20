@@ -64,9 +64,9 @@ a|image::/mc_assets/team/Chevrette.png[Marc, {headshot_size}, {headshot_size}]
 a|*Marc G Chevrette, PhD* +
 Marc is an Assistant Professor in the Department of Microbiology & Cell Science at the University of Florida. Prior to UF, Marc was a postdoctoral associate in the Handelsman lab at the Wisconsin Institute for Discovery and Head of Experimental Genomics at Warp Drive Bio (now Ginkgo Bioworks).
 
-* PhD: Genetics, University of Wisconsin-Madison (Currie)
-* MSc: Genetics, University of Wisconsin-Madison (Currie)
-* MSc: Biotechnology (Bioengineering), Harvard University Extension (Maira-Litrán)
+* PhD: Genetics, University of Wisconsin-Madison (Currie lab)
+* MSc: Genetics, University of Wisconsin-Madison (Currie lab)
+* MSc: Biotechnology (Bioengineering), Harvard University Extension (Maira-Litrán lab)
 * BSc: Molecular Biology & Bioinformatics, Rensselaer Polytechnic Institute
 
 image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:mchevrette@ufl.edu]
@@ -77,8 +77,13 @@ image:/mc_assets/icons/scholar.png[scholar, {icon_size}, {icon_size}, link=https
 == Postdoctoral Associates
 [cols=".^{c1ratio},.^{c2ratio}"]
 |===
-a|image::/mc_assets/team/gator_headshot.png[example, {headshot_size}, {headshot_size}]
-a|placeholder
+a|image::/mc_assets/team/Einarsson.jpg[Sveinn, {headshot_size}, {headshot_size}]
+a|*Sveinn Einarsson, PhD* +
+Sveinn is joint postdoc with the https://tinyecology.com/[Rivers lab] at the USDA-ARS. He is using Bayesian networks constructed from metagenomic and metabolomic data to model microbe-metabolite interactions.
+
+* PhD: Ocean & Earth Sciences, Old Dominion University (Chappell lab)
+
+image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:seinarsson@ufl.edu]
 |===
 
 ////
