@@ -63,6 +63,7 @@ We enthusiastically welcome prospective students to visit and rotate in our lab 
 The Chevrette Lab currently accepts graduate students from the following programs:
 
 * https://microcell.ufl.edu/graduate-program/[Microbiology & Cell Science]
+* http://ufgi.ufl.edu/grad-program/[Genetics & Genomics]
 
 '''
 

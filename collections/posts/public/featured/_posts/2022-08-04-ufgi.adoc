@@ -1,0 +1,69 @@
+---
+title:                                  UF Genetics Institute
+tagline:                                Chevrette to join UFGI
+
+categories:                             [ News ]
+tags:                                   [ General ]
+
+image:                                  /mc_assets/ufgi_logo.png
+
+fab_menu_id:                            default
+
+regenerate:                             false
+
+resources:                              [ animate ]
+resource_options:
+  - attic:
+      padding_top:                      400
+      padding_bottom:                   50
+      opacity:                          0.5
+      slides:
+        - url:                          /mc_assets/uf_back_orange.jpg
+---
+
+// Page Initializer
+// =============================================================================
+// Enable the Liquid Preprocessor
+:page-liquid:
+
+// Set (local) page attributes here
+// -----------------------------------------------------------------------------
+// :page--attr:                         <attr-value>
+:badges-enabled:                        false
+
+
+// Place an excerpt at the most top position
+// -----------------------------------------------------------------------------
+Dr. Chevrette has been accepted as a member of the http://ufgi.ufl.edu/[Univeristy of Florida Genetics Institute]! 
+
+excerpt__end
+
+//  Load Liquid procedures
+// -----------------------------------------------------------------------------
+{% capture load_attributes %}themes/{{site.template.name}}/procedures/global/attributes_loader.proc{%endcapture%}
+
+// Load page attributes
+// -----------------------------------------------------------------------------
+{% include {{load_attributes}} scope="global" %}
+
+
+// Page content
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ifeval::[{badges-enabled} == true]
+{badge-j1--license} {badge-j1--version-latest} {badge-j1-gh--last-commit} {badge-j1--downloads}
+endif::[]
+
+// Include sub-documents (if any)
+// -----------------------------------------------------------------------------
+
+The mission of the UFGI is to promote excellence in the areas of genetics and genomics at the University of Florida by:
+
+1. Building community, facilitating collaboration, and creating opportunities for intellectual exchanges among investigators working in diverse taxonomic systems but with a common set of approaches in genetics and genomics.
+2. Supporting recruitment and retention of outstanding faculty in the areas of genetic and genomics.
+3. Supporting graduate education in the areas of genetics and genomics.
+4. Enhancing the ability of researchers at the University of Florida to compete for multidisciplinary research grants in the area of genetics and genomics.
+
+We're excited to join this excellent community of scientists.
+
+In addition to students from the lab's home department (https://microcell.ufl.edu/[Microbiology & Cell Sciences]), we can now accept students from the http://ufgi.ufl.edu/grad-program/[Genetics & Genomics] graduate program.
