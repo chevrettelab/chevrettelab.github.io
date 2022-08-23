@@ -12,26 +12,27 @@ Main GH pages site: https://pages.github.com/
 GH with jekyll main page: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll
 
 ## Setting up jekyll:
+Windows:
 - Set up Ruby:
-	- If on windows
-		- NOTE: jekyll will break with ruby versions 3.x and above on windows (not sure why). Use version 2.7.x. (issue here https://github.com/jekyll-one-org/j1-template/issues/1)
-		- Install RubyInstaller https://rubyinstaller.org/downloads/
-	- If on linux, set up ruby..
-		- `sudo apt-get update -y && sudo apt-get upgrade -y`
-		- `sudo apt-add-repository ppa:brightbox/ruby-ng`
-		- `sudo apt-get update`
-		- `sudo apt-get install ruby2.5 ruby2.5-dev build-essential dh-autoreconf`
-		- `gem update`
+  - NOTE: jekyll will break with ruby versions 3.x and above on windows (not sure why). Use version 2.7.x. (issue here https://github.com/jekyll-one-org/j1-template/issues/1)
+  - Install RubyInstaller https://rubyinstaller.org/downloads/
 - Install dependencies: `gem install jekyll bundler`
 - Install yarn & nodejs
-	- If on win
-		- https://github.com/yarnpkg/yarn/releases/download/v1.22.4/yarn-1.22.4.msi
-		- https://github.com/coreybutler/nvm/releases
-		- https://nodejs.org/en/download/
-	- If on linux
-		- `brew install yarn`
-		- `sudo apt-get install nodejs npm`
+  - https://github.com/yarnpkg/yarn/releases/download/v1.22.4/yarn-1.22.4.msi
+  - https://github.com/coreybutler/nvm/releases
+  - https://nodejs.org/en/download/
 - add J1: `gem install j1-template`
+
+Ubuntu quick setup:
+NOTE: still in dev. does not quite work yet on chevrette-lab workstation under ubuntu 22.04 (all installs, but yarn breaks in subsequent steps)
+- `sudo apt-get install build-essential dh-autoreconf ubuntu-dev-tools nodejs npm`
+- `conda create -n myenv ruby gcc gxx_linux-64 yarn`
+- `conda activate myenv`
+- `gem update && gem install jekyll bundler && gem install j1-template`
+- `bundle update && bundle install`
+  - NOTE: conda sometimes screws up the ruby path so for the bundle commands to work, adding a sym link to ruby in the rubygems might be needed... `ln -s $(conda info --base)/envs/$CONDA_DEFAULT_ENV/bin/ruby $(conda info --base)/envs/$CONDA_DEFAULT_ENV/share/rubygems/bin/ruby`
+
+
 
 - If on windows, fix eventmachine issues (see https://stackoverflow.com/questions/30682575/unable-to-load-the-eventmachine-c-extension-to-use-the-pure-ruby-reactor):
   - If exists, uninstall eventmachine: `gem uninstall eventmachine `
