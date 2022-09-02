@@ -172,12 +172,12 @@ settings:
             phone:
               enabled:                  false
               office_hours:             9am-7pm
-              phone_1:                  401.269.9173
+              phone_1:                  352.273.4921
 
             internet:
               enabled:                  true
               mail_1:                   mchevrette (at) ufl (dot) edu
-              mail_2:                   401.269.9173
+              mail_2:                   352.273.4921
 
 # ------------------------------------------------------------------------------
 # END config
