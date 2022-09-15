@@ -95,9 +95,9 @@ image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:ma
 == Postdoctoral Associates
 [cols=".^{c1ratio},.^{c2ratio}"]
 |===
-a|image::/mc_assets/team/Einarsson.jpg[Sveinn, {headshot_size}, {headshot_size}]
-a|*Sveinn Einarsson, PhD* +
-Sveinn is joint postdoc with the https://tinyecology.com/[Rivers] lab at the USDA-ARS. He is using Bayesian networks constructed from metagenomic and metabolomic data to model microbe-metabolite interactions.
+a|image::/mc_assets/team/Einarsson.jpg[Denni, {headshot_size}, {headshot_size}]
+a|*Sveinn (Denni) Einarsson, PhD* +
+Denni is joint postdoc with the https://tinyecology.com/[Rivers] lab at the USDA-ARS. He is using Bayesian networks constructed from metagenomic and metabolomic data to model microbe-metabolite interactions.
 
 * PhD: Ocean & Earth Sciences, Old Dominion University (Chappell lab)
 
