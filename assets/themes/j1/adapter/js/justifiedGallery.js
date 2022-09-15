@@ -17,7 +17,7 @@
  # Justified Gallery is licensed under the MIT license
  # See: https://github.com/miromannino/Justified-Gallery
  # -----------------------------------------------------------------------------
- # Adapter generated: 2022-09-02 13:43:02 +0000
+ # Adapter generated: 2022-09-15 18:40:17 +0000
  # -----------------------------------------------------------------------------
 */
 // -----------------------------------------------------------------------------
@@ -48,7 +48,7 @@ j1.adapter.justifiedGallery = (function (j1, window) {
       // -----------------------------------------------------------------------
       var settings = $.extend({
         module_name: 'j1.adapter.justifiedGallery',
-        generated:   '2022-09-02 13:43:02 +0000'
+        generated:   '2022-09-15 18:40:17 +0000'
       }, options);
       // -----------------------------------------------------------------------
       // Global variable settings
