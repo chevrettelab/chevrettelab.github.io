@@ -52,6 +52,25 @@ endif::[]
 // Include sub-documents (if any)
 // -----------------------------------------------------------------------------
 
-== This site is under construction
+== Research in the _Chevrette Lab_ is focused broadly on _secondary metabolism_ and how it relates to _interspecies interactions_. 
 
-Check back soon :)
+'''
+
+=== We study secondary metabolism...
+
+=== _in evolution_
+
+* Genome mining, including the development of new computational tools to identify and characterize biosynthetic gene clusters (BGCs) in microbial genomes
+* Diversity and distribution of BGCs and biosynthetic enzymes across evolutionary space
+* Ancestral reconstruction of biosynthetic domains, genes, and pathways
+* Evolutionary dynamics of enzyme specificity and promiscuity
+
+=== _in natural systems_
+* Secondary metabolites and BGCs...
+** from host-associated microbiomes, including amphibian skin, insect exoskeleton, and the rhizosphere
+** from soil bacteria, including those from Tiny Earth (see https://tinyearth.wisc.edu)
+
+=== _in experimental systems_
+* Metatranscriptomics and metametabolomics of synthetic microbial communities
+* Genetic and regulatory mechanisms of secondary metabolite expression and interspecies interactions
+* Specificity of interactions across synthetic microbial communities
