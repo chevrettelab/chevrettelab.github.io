@@ -90,6 +90,12 @@ a|*Mark Ou* +
 Mark is a Senior Biological Scientist with the Chevrette and https://microcell.ufl.edu/people/meixa-zhao/[Zhao] labs. Mark supports all experimental efforts in the lab and has over 25 years of research experience at UF and MCS. 
 
 image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:markie@ufl.edu]
+
+a|image::/mc_assets/team/Donahey.jpg[Melinda, {headshot_size}, {headshot_size}]
+a|*Melinda Donahey* +
+Melinda is an Associate Research Scientist in the Chevrette lab.  Prior to UF, Melinda was a biological science technician at USDA-ARS and served in the Chemistry Research Unit and the Genetics and Bioinformatics Research Unit. 
+
+image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:mchue@ufl.edu]
 |===
 
 == Postdoctoral Associates
