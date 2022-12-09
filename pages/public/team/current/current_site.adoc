@@ -110,14 +110,19 @@ Denni is joint postdoc with the https://tinyecology.com/[Rivers] lab at the USDA
 image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:seinarsson@ufl.edu]
 |===
 
-////
 == Graduate Students
 [cols=".^{c1ratio},.^{c2ratio}"]
 |===
-// a|image::/mc_assets/team/no_pic.jpg[example, {headshot_size}, {headshot_size}]
-// a|placeholder
+a|image::/mc_assets/team/Cediel-Becerra.jpg[José, {headshot_size}, {headshot_size}]
+a|*José DD Cediel-Becerra* +
+José is a Ph.D. student in the Microbiology and Cell Science department at UF. Before UF, he was a Research Assistant in a microbiology lab in Colombia, where he performed hands-on experience on microbial collections, environmental mutagenesis, and microbial photoprotection to find natural products to be used as sunscreen ingredients.
+
+* BSc: Biology, Industrial University of Santander
+
+image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:jcedielbecerra@ufl.edu]
+image:/mc_assets/icons/twitter.png[twitter, {icon_size}, {icon_size}, link=https://twitter.com/jcedielbecerra]
+image:/mc_assets/icons/scholar.png[scholar, {icon_size}, {icon_size}, link=https://scholar.google.com/citations?hl=en&user=p89roeEAAAAJ]
 |===
-////
 
 '''
 
