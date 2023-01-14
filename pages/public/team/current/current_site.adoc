@@ -114,7 +114,7 @@ image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:se
 [cols=".^{c1ratio},.^{c2ratio}"]
 |===
 a|image::/mc_assets/team/Cediel-Becerra.jpg[José, {headshot_size}, {headshot_size}]
-a|*José DD Cediel-Becerra* +
+a|*José DD Cediel Becerra* +
 José is a Ph.D. student in the Microbiology and Cell Science department at UF. Before UF, he was a Research Assistant in a microbiology lab in Colombia, where he performed hands-on experience on microbial collections, environmental mutagenesis, and microbial photoprotection to find natural products to be used as sunscreen ingredients.
 
 * BSc: Biology, Industrial University of Santander
@@ -124,6 +124,17 @@ image:/mc_assets/icons/twitter.png[twitter, {icon_size}, {icon_size}, link=https
 image:/mc_assets/icons/scholar.png[scholar, {icon_size}, {icon_size}, link=https://scholar.google.com/citations?hl=en&user=p89roeEAAAAJ]
 |===
 
+== Undergraduate Students
+[cols=".^{c1ratio},.^{c2ratio}"]
+|===
+a|image::/mc_assets/team/Kashyap.jpg[José, {headshot_size}, {headshot_size}]
+a|*Neha Kashyap* +
+Neha is an undergraduate student at UF majoring in Microbiology and Cell Science and minoring in Bioinformatics. She is excited about research related to developing tools to combat antimicrobial resistance and related to exploring the gut-brain axis. Neha hopes to one day attend graduate school to become a bioinformatician.
+
+image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:n.kashyap@ufl.edu]
+|===
+
 '''
+
 
 link:/pages/public/team/alum/site/[Lab alumni]
