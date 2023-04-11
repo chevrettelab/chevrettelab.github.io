@@ -29,10 +29,12 @@ NOTE: still in dev. does not quite work yet on chevrette-lab workstation under u
 - `conda create -n myenv ruby gcc gxx_linux-64 yarn`
 - `conda activate myenv`
 - `gem update && gem install jekyll bundler && gem install j1-template`
-- `bundle update && bundle install`
+
+Downgrade npm
+`npm install -g npm@^8`
+
+`bundle update && bundle install`
   - NOTE: conda sometimes screws up the ruby path so for the bundle commands to work, adding a sym link to ruby in the rubygems might be needed... `ln -s $(conda info --base)/envs/$CONDA_DEFAULT_ENV/bin/ruby $(conda info --base)/envs/$CONDA_DEFAULT_ENV/share/rubygems/bin/ruby`
-
-
 
 - If on windows, fix eventmachine issues (see https://stackoverflow.com/questions/30682575/unable-to-load-the-eventmachine-c-extension-to-use-the-pure-ruby-reactor):
   - If exists, uninstall eventmachine: `gem uninstall eventmachine `
