@@ -219,5 +219,8 @@ gem 'scss_lint', '~> 0.56.0'
 gem 'sass', '~> 3.5.0'
 gem 'bump', '~> 0.8'
 
+## Added by MC
+gem 'eventmachine', '1.2.7', git: 'https://github.com/eventmachine/eventmachine.git', tag: 'v1.2.7'
+
 # ------------------------------------------------------------------------------
 # END
