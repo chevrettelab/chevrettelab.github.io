@@ -40,6 +40,8 @@ Downgrade npm
 
 - If on windows, fix eventmachine issues (see https://stackoverflow.com/questions/30682575/unable-to-load-the-eventmachine-c-extension-to-use-the-pure-ruby-reactor):
   - Make sure git is installed
+    - update global email: `git config --global user.email xxx@yyy.com`
+    - as administrator, add `git config --system core.longpaths true`
   - If exists, uninstall eventmachine: `gem uninstall eventmachine `
   - Edit gemfile in project folder to include: `gem install 'eventmachine', '1.2.7', git: 'https://github.com/eventmachine/eventmachine.git', tag: 'v1.2.7'`
   - bundle update
