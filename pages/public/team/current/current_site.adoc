@@ -122,9 +122,14 @@ José is a Ph.D. student in the Microbiology and Cell Science department at UF. 
 image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:jcedielbecerra@ufl.edu]
 image:/mc_assets/icons/twitter.png[twitter, {icon_size}, {icon_size}, link=https://twitter.com/jcedielbecerra]
 image:/mc_assets/icons/scholar.png[scholar, {icon_size}, {icon_size}, link=https://scholar.google.com/citations?hl=en&user=p89roeEAAAAJ]
+
+a|image::/mc_assets/team/gator_headshot.png[Sebastian, {headshot_size}, {headshot_size}]
+a|*Sebastian Guerra* +
+
+image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:sguerra1@ufl.edu]
 |===
 
-== Undergraduate Students
+== Undergraduate and Postbaccalaureate Trainees
 [cols=".^{c1ratio},.^{c2ratio}"]
 |===
 a|image::/mc_assets/team/Kashyap.jpg[Neha, {headshot_size}, {headshot_size}]
@@ -133,11 +138,21 @@ Neha is an undergraduate student at UF majoring in Microbiology and Cell Science
 
 image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:n.kashyap@ufl.edu]
 
+a|image::/mc_assets/team/gator_headshot.png[Julia, {headshot_size}, {headshot_size}]
+a|*Julia Charske* +
+
+image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:jcharske@ufl.edu]
+
 a|image::/mc_assets/team/Gatmaitan.jpg[Andrea, {headshot_size}, {headshot_size}]
 a|*Ma Andrea Gatmaitan* +
 Andrea is a biology major with a minor in pathogenesis. Her first research experience was at the Citrus Research Center where she studied the effects of streptomycin treatments against citrus greening (HLB). She also worked on isolating bacterial endophytes and using them to control citrus canker. After working at the CREC, she joined the entomology department and did research on the mechanism of protein store sensing in fruit flies and how this can modulate their life cycle timing. After her undergraduate studies, she wants to pursue a masters/PhD in molecular biology.
 
 image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:gatmaitanm1@ufl.edu]
+
+a|image::/mc_assets/team/gator_headshot.png[Jonas, {headshot_size}, {headshot_size}]
+a|*Jonas Eriksson* +
+
+image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:joneri3@kth.se]
 |===
 
 '''
