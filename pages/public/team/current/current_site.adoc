@@ -123,8 +123,11 @@ image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:jc
 image:/mc_assets/icons/twitter.png[twitter, {icon_size}, {icon_size}, link=https://twitter.com/jcedielbecerra]
 image:/mc_assets/icons/scholar.png[scholar, {icon_size}, {icon_size}, link=https://scholar.google.com/citations?hl=en&user=p89roeEAAAAJ]
 
-a|image::/mc_assets/team/gator_headshot.png[Sebastian, {headshot_size}, {headshot_size}]
+a|image::/mc_assets/team/Guerra.jpeg[Sebastian, {headshot_size}, {headshot_size}]
 a|*Sebastian Guerra* +
+Sebastian is a Ph.D student in the Genetics and Genomics program at the University of Florida Genetics Institute (UFGI). His main interests are in genetic engineering and synthetic biology and he hopes to develop interdisciplinary skills and knowledge from these fields to contribute to drug discovery and valuable secondary metabolite production.
+
+* BSc: Microbiology & Cell Science, University of Florida
 
 image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:sguerra1@ufl.edu]
 |===
