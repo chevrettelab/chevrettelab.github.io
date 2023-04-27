@@ -12,7 +12,7 @@
  #  J1 Template is licensed under MIT License.
  #  See: https://github.com/jekyll-one/J1 Template/blob/master/LICENSE
  # -----------------------------------------------------------------------------
- #  Adapter generated: 2023-04-23 20:54:37 -0400
+ #  Adapter generated: 2023-04-27 12:01:35 -0400
  # -----------------------------------------------------------------------------
 */
 // -----------------------------------------------------------------------------
@@ -64,7 +64,7 @@ j1.adapter.translator = (function (j1, window) {
       // -----------------------------------------------------------------------
       var settings = $.extend({
         module_name: 'j1.adapter.translator',
-        generated:   '2023-04-23 20:54:37 -0400'
+        generated:   '2023-04-27 12:01:35 -0400'
       }, options);
       // -----------------------------------------------------------------------
       // Global variable settings
