@@ -144,10 +144,10 @@ settings:
               description: >
                                         <p>
                                           Microbes are the best chemists in the world and their metabolites are the language of microbial interactions. Microbially produced secondary metabolites influence many aspects of microbiome ecology and are an important source of critical human medicines, including antibiotics, anticancer therapeutics, and immunosuppressants.
-                                        <\p>
+                                        </p>
                                         <p>
                                           Our research focuses on the ecology and evolution of the genes that encode secondary metabolism and how microbial metabolites shape microbiome interaction networks. We deploy both computational and experimental approaches to describe the eco-evo dynamics of bacteria and the genes that assemble their secondary metabolites.
-                                         <\p>
+                                         </p>
                                          <p><i><ul>
                                           <li>What bacterial conversations are happening in host-associated microbiomes?</li>
                                           <li>What are the molecules that mediate these interactions?</li>
