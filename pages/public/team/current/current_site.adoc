@@ -153,6 +153,11 @@ Andrea is a biology major with a minor in pathogenesis. Her first research exper
 
 image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:gatmaitanm1@ufl.edu]
 
+a|image::/mc_assets/team/gator_headshot.png[Javier, {headshot_size}, {headshot_size}]
+a|*Javier Gil* +
+
+image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:Jaiver.gil002@mymdc.net]
+
 a|image::/mc_assets/team/gator_headshot.png[Jonas, {headshot_size}, {headshot_size}]
 a|*Jonas Eriksson* +
 
