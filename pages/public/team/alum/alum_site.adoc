@@ -57,25 +57,20 @@ endif::[]
 :c1ratio: 1
 :c2ratio: 3
 
-== Nobody yet! We're brand new :)
-
-////
-== Former Postdoctoral Associates
+== Former Undergraduate and Postbaccalaureate Trainees
 [cols=".^{c1ratio},.^{c2ratio}"]
 |===
-a|image::/mc_assets/team/no_pic.jpg[example, {headshot_size}, {headshot_size}]
-a|placeholder
-|===
-////
 
-////
-== Former Graduate Students
-[cols=".^{c1ratio},.^{c2ratio}"]
+a|*Ma Andrea Gatmaitan* + 
+(2023)
+a|American Society for Pharmacognosy Summer Research Fellow
+
+a|*Javier Gil* + 
+(2023)
+a|Miami Dade College Summer Research Fellow +
+Current position: Undergraduate, Massachusetts Institute of Technology
+
 |===
-a|image::/mc_assets/team/no_pic.jpg[example, {headshot_size}, {headshot_size}]
-a|placeholder
-|===
-////
 
 '''
 
