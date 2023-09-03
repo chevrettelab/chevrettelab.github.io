@@ -108,6 +108,12 @@ Denni is joint postdoc with the https://tinyecology.com/[Rivers] lab at the USDA
 * PhD: Ocean & Earth Sciences, Old Dominion University (Chappell lab)
 
 image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:seinarsson@ufl.edu]
+
+a|image::/mc_assets/team/Cumsille.jpg[Andres, {headshot_size}, {headshot_size}]
+a|*Andrés Cumsille Montesinos, PhD* +
+Under construction
+
+image:/mc_assets/icons/twitter.png[twitter, {icon_size}, {icon_size}, link=https://twitter.com/a_cumsille]
 |===
 
 == Graduate Students
@@ -149,7 +155,8 @@ image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:jc
 
 a|image::/mc_assets/team/Manning.jpg[Shannon, {headshot_size}, {headshot_size}]
 a|*Shannon Manning* +
-   
+Under construction
+
 image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:manningshannon@ufl.edu]
 |===
 
