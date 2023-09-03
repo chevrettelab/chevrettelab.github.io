@@ -147,7 +147,7 @@ Julia is an undergraduate student at UF pursuing a dual degree in Nutritional Sc
 
 image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:jcharske@ufl.edu]
 
-a|image::/mc_assets/team/gator_headshot.png[Shannon, {headshot_size}, {headshot_size}]
+a|image::/mc_assets/team/Manning.jpg[Shannon, {headshot_size}, {headshot_size}]
 a|*Shannon Manning* +
    
 image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:manningshannon@ufl.edu]
