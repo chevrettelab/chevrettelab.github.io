@@ -155,7 +155,7 @@ image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:jc
 
 a|image::/mc_assets/team/Manning.jpg[Shannon, {headshot_size}, {headshot_size}]
 a|*Shannon Manning* +
-Under construction
+Shannon is an undergraduate student at UF majoring in Biology within the College of Agriculture and Life Sciences and minoring in Bioinformatics. She is interested in antimicrobial research, biosynthetic gene clusters, and their influences/roles in antimicrobial resistance. After her undergrad, Shannon plans to attend graduate school and become a Clinical Geneticist.
 
 image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:manningshannon@ufl.edu]
 |===
