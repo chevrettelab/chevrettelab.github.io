@@ -109,9 +109,12 @@ Denni is joint postdoc with the https://tinyecology.com/[Rivers] lab at the USDA
 
 image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:seinarsson@ufl.edu]
 
-a|image::/mc_assets/team/Cumsille.jpg[Andres, {headshot_size}, {headshot_size}]
-a|*Andrés Cumsille Montesinos, PhD* +
-Under construction
+a|image::/mc_assets/team/Cumsille.jpeg[Andres, {headshot_size}, {headshot_size}]
+a|*Andrés Cumsille, PhD* +
+Andrés is a postdoctoral researcher in the Department of Microbiology & Cell Science at the University of Florida. Before joining UF, Andrés was associated with the Cámara Lab at UTFSM in Chile. He brings extensive experience in utilizing genomics and metabolomics for the study of secondary metabolites in bacteria.
+
+* PhD: Biotechnology, Universidad Técnica Federico Santa María & Pontificia Universidad Católica de Valparaíso
+* BSc: Environmental Engineering, Universidad Técnica Federico Santa María
 
 image:/mc_assets/icons/twitter.png[twitter, {icon_size}, {icon_size}, link=https://twitter.com/a_cumsille]
 |===
