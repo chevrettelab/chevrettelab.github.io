@@ -136,6 +136,15 @@ Sebastian is a Ph.D student in the Genetics and Genomics program at the Universi
 * BSc: Microbiology & Cell Science, University of Florida
 
 image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:sguerra1@ufl.edu]
+
+a|image::/mc_assets/team/Saldanha.jpg[Murrel, {headshot_size}, {headshot_size}]
+a|*Murrel Saldanha* +
+Murrel is a Ph.D. student in the Microbiology and Cell Science Department at the University of Florida. She has worked as a research assistant at University of South Florida where she used chemogenomic approaches to identify novel drug candidates and drug targets against malaria. She is interested in using genome mining to contribute to drug discovery and global AMR efforts.
+
+* BPharm: Birla Institute of Technology and Science, Pilani
+
+image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:msaldanha@ufl.edu]
+image:/mc_assets/icons/scholar.png[scholar, {icon_size}, {icon_size}, link=https://scholar.google.com/citations?hl=en&user=6pp-_GkAAAAJ]
 |===
 
 == Undergraduate and Postbaccalaureate Trainees
