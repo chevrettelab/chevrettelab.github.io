@@ -19,7 +19,7 @@
  # NOTE: For getStyleValue helper see
  #  https://stackoverflow.com/questions/16965515/how-to-get-a-style-attribute-from-a-css-class-by-javascript-jquery
  # -----------------------------------------------------------------------------
- # Adapter generated: 2023-12-25 15:59:47 -0500
+ # Adapter generated: 2023-12-26 20:15:33 -0500
  # -----------------------------------------------------------------------------
 */
 // -----------------------------------------------------------------------------
@@ -72,7 +72,7 @@ j1.adapter.navigator = (function (j1, window) {
       // -----------------------------------------------------------------------
       var settings  = $.extend({
         module_name: 'j1.adapter.navigator',
-        generated:   '2023-12-25 15:59:47 -0500'
+        generated:   '2023-12-26 20:15:33 -0500'
       }, options);
       // -----------------------------------------------------------------------
       // Global variable settings
