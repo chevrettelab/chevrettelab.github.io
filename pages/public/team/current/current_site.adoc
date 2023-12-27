@@ -117,6 +117,7 @@ Andrés is a postdoctoral researcher in the Department of Microbiology & Cell Sc
 * BSc: Environmental Engineering, Universidad Técnica Federico Santa María
 
 image:/mc_assets/icons/twitter.png[twitter, {icon_size}, {icon_size}, link=https://twitter.com/a_cumsille]
+image:/mc_assets/icons/scholar.png[scholar, {icon_size}, {icon_size}, link=https://scholar.google.com/citations?hl=en&tzom=300&user=7dciYioAAAAJ]
 |===
 
 == Graduate Students
