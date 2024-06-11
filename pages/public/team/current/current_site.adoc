@@ -101,14 +101,6 @@ image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:mc
 == Postdoctoral Associates
 [cols=".^{c1ratio},.^{c2ratio}"]
 |===
-a|image::/mc_assets/team/Einarsson.jpg[Denni, {headshot_size}, {headshot_size}]
-a|*Sveinn (Denni) Einarsson, PhD* +
-Denni is joint postdoc with the https://tinyecology.com/[Rivers] lab at the USDA-ARS. He is using Bayesian networks constructed from metagenomic and metabolomic data to model microbe-metabolite interactions.
-
-* PhD: Ocean & Earth Sciences, Old Dominion University (Chappell lab)
-
-image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:seinarsson@ufl.edu]
-
 a|image::/mc_assets/team/Cumsille.jpeg[Andres, {headshot_size}, {headshot_size}]
 a|*Andrés Cumsille, PhD* +
 Andrés is a postdoctoral researcher in the Department of Microbiology & Cell Science at the University of Florida. Before joining UF, Andrés was associated with the Cámara Lab at UTFSM in Chile. He brings extensive experience in utilizing genomics and metabolomics for the study of secondary metabolites in bacteria.
@@ -116,6 +108,7 @@ Andrés is a postdoctoral researcher in the Department of Microbiology & Cell Sc
 * PhD: Biotechnology, Universidad Técnica Federico Santa María & Pontificia Universidad Católica de Valparaíso
 * BSc: Environmental Engineering, Universidad Técnica Federico Santa María
 
+image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:a.cumsillemontes@ufl.edu]
 image:/mc_assets/icons/twitter.png[twitter, {icon_size}, {icon_size}, link=https://twitter.com/a_cumsille]
 image:/mc_assets/icons/scholar.png[scholar, {icon_size}, {icon_size}, link=https://scholar.google.com/citations?hl=en&tzom=300&user=7dciYioAAAAJ]
 |===
@@ -160,17 +153,23 @@ Neha is an undergraduate student at UF majoring in Microbiology and Cell Science
 
 image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:n.kashyap@ufl.edu]
 
-a|image::/mc_assets/team/Charske.png[Julia, {headshot_size}, {headshot_size}]
-a|*Julia Charske* +
-Julia is an undergraduate student at UF pursuing a dual degree in Nutritional Sciences and Spanish. She was TA for the UF Microbiology lab for 2 semesters, where she gained lab experience. Julia is interested in research regarding secondary metabolites and their interactions. She also loves Spanish and is a CLAS Scholar, researching secondary language acquisition. Her goal is to attend medical school and become a primary care physician.   
-
-image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:jcharske@ufl.edu]
-
 a|image::/mc_assets/team/Manning.jpg[Shannon, {headshot_size}, {headshot_size}]
 a|*Shannon Manning* +
 Shannon is an undergraduate student at UF majoring in Biology within the College of Agriculture and Life Sciences and minoring in Bioinformatics. She is interested in antimicrobial research, biosynthetic gene clusters, and their influences/roles in antimicrobial resistance. After her undergrad, Shannon plans to attend graduate school and become a Clinical Geneticist.
 
 image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:manningshannon@ufl.edu]
+
+a|image::/mc_assets/team/Febles.jpg[Ayana, {headshot_size}, {headshot_size}]
+a|*Ayana Febles* +
+Ayana is an undergraduate student at UF majoring in Microbiology and Cell Science and minoring in Health Disparities in Society and Chemistry. Ayana is interested in research regarding the role of biosynthetic gene clusters and its influence on secondary metabolites. After undergrad, her goal is to attend medical school in aspiration of becoming an anesthesiologist.
+
+image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:ayana.febles@ufl.edu]
+
+a|image::/mc_assets/team/gator_headshot.png[Sabrina, {headshot_size}, {headshot_size}]
+a|*Sabrina Hernandez* +
+Under construction.
+
+image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:sa.hernandez@ufl.edu]
 |===
 
 '''

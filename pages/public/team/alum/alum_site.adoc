@@ -57,9 +57,24 @@ endif::[]
 :c1ratio: 1
 :c2ratio: 3
 
+== Former Postdoctoral Associates
+[cols=".^{c1ratio},.^{c2ratio}"]
+|===
+
+a|*Denni (Svienn) Einarsson* + 
+(2022-2024)
+a|Joint postdoc with the https://tinyecology.com/[Rivers] lab at the USDA-ARS +
+Current position: Assistant Professor, Queens University
+
+|===
+
 == Former Undergraduate and Postbaccalaureate Trainees
 [cols=".^{c1ratio},.^{c2ratio}"]
 |===
+
+a|*Julia Charske* + 
+(2023)
+a|UF Undergraduate Researcher
 
 a|*Ma Andrea Gatmaitan* + 
 (2023)
