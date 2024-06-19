@@ -13,7 +13,7 @@
  # J1 Template is licensed under the MIT License.
  # For details, see: https://github.com/jekyll-one-org/j1-template/blob/main/LICENSE.md
  # -----------------------------------------------------------------------------
- #  Adapter generated: 2024-06-10 21:00:00 -0400
+ #  Adapter generated: 2024-06-18 21:18:40 -0400
  # -----------------------------------------------------------------------------
 */
 // -----------------------------------------------------------------------------
@@ -44,7 +44,7 @@ j1.adapter.bmd = (function (j1, window) {
       // -----------------------------------------------------------------------
       var settings = $.extend({
         module_name: 'j1.adapter.bmd',
-        generated:   '2024-06-10 21:00:00 -0400'
+        generated:   '2024-06-18 21:18:40 -0400'
       }, options);
       // -----------------------------------------------------------------------
       // Global variable settings
