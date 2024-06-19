@@ -165,9 +165,9 @@ Ayana is an undergraduate student at UF majoring in Microbiology and Cell Scienc
 
 image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:ayana.febles@ufl.edu]
 
-a|image::/mc_assets/team/gator_headshot.png[Sabrina, {headshot_size}, {headshot_size}]
+a|image::/mc_assets/team/Hernandez.jpg[Sabrina, {headshot_size}, {headshot_size}]
 a|*Sabrina Hernandez* +
-Under construction.
+Sabrina is an undergraduate at UF, majoring in Microbiology and Cell Science with a minor in Bioinformatics. She is passionate about researching antimicrobial resistance in diverse physico-chemical environments. After completing her undergraduate degree, Sabrina plans to attend graduate school with the goal of becoming a research scientist at NASA.
 
 image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:sa.hernandez@ufl.edu]
 |===
