@@ -138,13 +138,12 @@
     "predeploy": "yarn run build",
     "deploy": "gh-pages -b master -d _site"
   },
-  "homepage": "https://chevrettelab.github.io/",
   "dependencies": {
     "cross-env": "^7.0.3",
     "cross-var": "^1.1.0",
     "getos": "^3.2.1",
     "getos-cli": "^1.0.0",
-    "gh-pages": "^4.0.0",
+    "gh-pages": "^6.3.0",
     "if-env": "^1.0.4",
     "j1-cli": "^2019.0.3",
     "npm-delay": "^1.0.4",

@@ -96,11 +96,11 @@ settings:
             tagline:                    
             text: >
                                         The Chevrette Lab is part of the 
-                                        <a href="https://microcell.ufl.edu/">Department of Microbiology & Cell Sciences</a>
+                                        <a href="http://plantpath.wisc.edu/">Department of Plant Pathology</a>
                                         and the
-                                        <a href="https://ifas.ufl.edu/">Institute of Food and Agricultural Sciences</a>
+                                        <a href="https://wid.wisc.edu/">Wisconsin Institute for Discovery</a>
                                         at the 
-                                        <a href="https://www.ufl.edu/">University of Florida</a>.
+                                        <a href="https://www.wisc.edu/">University of Wisconsin-Madison</a>.
                                         <br><br>
 
             justify:                    true
@@ -165,19 +165,19 @@ settings:
 
             address:
               enabled:                  true
-              address_1:                Department of Microbiology & Cell Science
-              address_2:                P.O. Box 110700
-              address_3:                Gainesville, FL 32611-0180
+              address_1:                Department of Plant Pathology
+              address_2:                1630 Linden Drive
+              address_3:                Madison, WI 53706
 
             phone:
               enabled:                  false
               office_hours:             9am-7pm
-              phone_1:                  352.273.4921
+              phone_1:                  608.890.0237
 
             internet:
               enabled:                  true
-              mail_1:                   mchevrette (at) ufl (dot) edu
-              mail_2:                   352.273.4921
+              mail_1:                   chevrette (at) wisc (dot) edu
+              mail_2:                   608.890.0237
 
 # ------------------------------------------------------------------------------
 # END config

@@ -20,7 +20,7 @@ resource_options:
       padding_bottom:                   50
       opacity:                          0.5
       slides:
-        - url:                          /mc_assets/gator1.jpg
+        - url:                          /assets/images/clab/uw/bascom_sunrise.png
 ---
 
 // Page Initializer
@@ -60,7 +60,7 @@ endif::[]
 == Principal Investigator
 [cols=".^{c1ratio},.^{c2ratio}"]
 |===
-a|image::/mc_assets/team/Chevrette.png[Marc, {headshot_size}, {headshot_size}]
+a|image::/assets/images/clab/team/Chevrette.png[Marc, {headshot_size}, {headshot_size}]
 a|*Marc G Chevrette, PhD* +
 Marc is an Assistant Professor in the Department of Microbiology & Cell Science at the University of Florida. Prior to UF, Marc was a postdoctoral associate in the Handelsman lab at the Wisconsin Institute for Discovery and Head of Experimental Genomics at Warp Drive Bio (now Ginkgo Bioworks).
 
@@ -69,108 +69,60 @@ Marc is an Assistant Professor in the Department of Microbiology & Cell Science 
 * MSc: Biotechnology (Bioengineering), Harvard University Extension (Maira-Litrán lab)
 * BSc: Molecular Biology & Bioinformatics, Rensselaer Polytechnic Institute
 
-image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:mchevrette@ufl.edu]
-image:/mc_assets/icons/twitter.png[twitter, {icon_size}, {icon_size}, link=https://twitter.com/wildtypeMC]
-image:/mc_assets/icons/scholar.png[scholar, {icon_size}, {icon_size}, link=https://scholar.google.com/citations?hl=en&user=VX3Laf8AAAAJ]
+image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:chevrette@wisc.edu]
+image:/assets/images/clab/icons/twitter.png[twitter, {icon_size}, {icon_size}, link=https://twitter.com/wildtypeMC]
+image:/assets/images/clab/icons/scholar.png[scholar, {icon_size}, {icon_size}, link=https://scholar.google.com/citations?hl=en&user=VX3Laf8AAAAJ]
 |===
 
-== Research Staff
-[cols=".^{c1ratio},.^{c2ratio}"]
-|===
-a|image::/mc_assets/team/Schuster.jpg[Layla, {headshot_size}, {headshot_size}]
-a|*Layla Schuster, PhD* +
-Layla is a Data Management Analyst II working with the Chevrette, https://microcell.ufl.edu/people/raquel-dias/[Dias], and https://microcell.ufl.edu/people/meixa-zhao/[Zhao] labs. She has experience in wet and dry micro/synthetic biology for model and non-model bacteria and has interests in genetic tool development. 
+// == Research Staff
+// [cols=".^{c1ratio},.^{c2ratio}"]
+// |===
+// a|image::/assets/images/clab/team/Schuster.jpg[Layla, {headshot_size}, {headshot_size}]
+// a|*Layla Schuster, PhD* +
+// Layla is a Data Management Analyst II working with the Chevrette, https://microcell.ufl.edu/people/raquel-dias/[Dias], and https://microcell.ufl.edu/people/meixa-zhao/[Zhao] labs. She has experience in wet and dry micro/synthetic biology for model and non-model bacteria and has interests in genetic tool development. 
 
-* PhD: Microbiology, University of Florida (Reisch lab)
+// * PhD: Microbiology, University of Florida (Reisch lab)
 
-image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:layla.schuster@medicine.ufl.edu]
-
-a|image::/mc_assets/team/Ou.jpeg[Mark, {headshot_size}, {headshot_size}]
-a|*Mark Ou* +
-Mark is a Senior Biological Scientist with the Chevrette and https://microcell.ufl.edu/people/meixa-zhao/[Zhao] labs. Mark supports all experimental efforts in the lab and has over 25 years of research experience at UF and MCS. 
-
-image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:markie@ufl.edu]
-
-a|image::/mc_assets/team/Donahey.jpg[Melinda, {headshot_size}, {headshot_size}]
-a|*Melinda Donahey* +
-Melinda is an Associate Research Scientist in the Chevrette lab.  Prior to UF, Melinda was a biological science technician at USDA-ARS and served in the Chemistry Research Unit and the Genetics and Bioinformatics Research Unit. 
-
-image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:mchue@ufl.edu]
-|===
+// image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:layla.schuster@medicine.ufl.edu]
+// |===
 
 == Postdoctoral Associates
 [cols=".^{c1ratio},.^{c2ratio}"]
 |===
-a|image::/mc_assets/team/Cumsille.jpeg[Andres, {headshot_size}, {headshot_size}]
+a|image::/assets/images/clab/team/Cumsille.jpeg[Andres, {headshot_size}, {headshot_size}]
 a|*Andrés Cumsille, PhD* +
 Andrés is a postdoctoral researcher in the Department of Microbiology & Cell Science at the University of Florida. Before joining UF, Andrés was associated with the Cámara Lab at UTFSM in Chile. He brings extensive experience in utilizing genomics and metabolomics for the study of secondary metabolites in bacteria.
 
 * PhD: Biotechnology, Universidad Técnica Federico Santa María & Pontificia Universidad Católica de Valparaíso
 * BSc: Environmental Engineering, Universidad Técnica Federico Santa María
 
-image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:a.cumsillemontes@ufl.edu]
-image:/mc_assets/icons/twitter.png[twitter, {icon_size}, {icon_size}, link=https://twitter.com/a_cumsille]
-image:/mc_assets/icons/scholar.png[scholar, {icon_size}, {icon_size}, link=https://scholar.google.com/citations?hl=en&tzom=300&user=7dciYioAAAAJ]
+image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:a.cumsillemontes@ufl.edu]
+image:/assets/images/clab/icons/twitter.png[twitter, {icon_size}, {icon_size}, link=https://twitter.com/a_cumsille]
+image:/assets/images/clab/icons/scholar.png[scholar, {icon_size}, {icon_size}, link=https://scholar.google.com/citations?hl=en&tzom=300&user=7dciYioAAAAJ]
 |===
 
-== Graduate Students
-[cols=".^{c1ratio},.^{c2ratio}"]
-|===
-a|image::/mc_assets/team/Cediel-Becerra.jpg[José, {headshot_size}, {headshot_size}]
-a|*José DD Cediel Becerra* +
-José is a Ph.D. student in the Microbiology and Cell Science department at UF. Before UF, he was a Research Assistant in a microbiology lab in Colombia, where he performed hands-on experience on microbial collections, environmental mutagenesis, and microbial photoprotection to find natural products to be used as sunscreen ingredients.
+// == Graduate Students
+// [cols=".^{c1ratio},.^{c2ratio}"]
+// |===
+// a|image::/assets/images/clab/team/Saldanha.jpg[Murrel, {headshot_size}, {headshot_size}]
+// a|*Murrel Saldanha* +
+// Murrel is a Ph.D. student in the Microbiology and Cell Science Department at the University of Florida. She has worked as a research assistant at University of South Florida where she used chemogenomic approaches to identify novel drug candidates and drug targets against malaria. She is interested in using genome mining to contribute to drug discovery and global AMR efforts.
 
-* BSc: Biology, Industrial University of Santander
+// * BPharm: Birla Institute of Technology and Science, Pilani
 
-image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:jcedielbecerra@ufl.edu]
-image:/mc_assets/icons/twitter.png[twitter, {icon_size}, {icon_size}, link=https://twitter.com/jcedielbecerra]
-image:/mc_assets/icons/scholar.png[scholar, {icon_size}, {icon_size}, link=https://scholar.google.com/citations?hl=en&user=p89roeEAAAAJ]
+// image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:msaldanha@ufl.edu]
+// image:/assets/images/clab/icons/scholar.png[scholar, {icon_size}, {icon_size}, link=https://scholar.google.com/citations?hl=en&user=6pp-_GkAAAAJ]
+// |===
 
-a|image::/mc_assets/team/Guerra.jpeg[Sebastian, {headshot_size}, {headshot_size}]
-a|*Sebastian Guerra* +
-Sebastian is a Ph.D student in the Genetics and Genomics program at the University of Florida Genetics Institute (UFGI). His main interests are in genetic engineering and synthetic biology and he hopes to develop interdisciplinary skills and knowledge from these fields to contribute to drug discovery and valuable secondary metabolite production.
+// == Undergraduate and Postbaccalaureate Trainees
+// [cols=".^{c1ratio},.^{c2ratio}"]
+// |===
+// a|image::/assets/images/clab/team/Kashyap.jpg[Neha, {headshot_size}, {headshot_size}]
+// a|*Neha Kashyap* +
+// Neha is an undergraduate student at UF majoring in Microbiology and Cell Science and minoring in Bioinformatics. She is excited about research related to developing tools to combat antimicrobial resistance and related to exploring the gut-brain axis. Neha hopes to one day attend graduate school to become a bioinformatician.
 
-* BSc: Microbiology & Cell Science, University of Florida
-
-image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:sguerra1@ufl.edu]
-
-a|image::/mc_assets/team/Saldanha.jpg[Murrel, {headshot_size}, {headshot_size}]
-a|*Murrel Saldanha* +
-Murrel is a Ph.D. student in the Microbiology and Cell Science Department at the University of Florida. She has worked as a research assistant at University of South Florida where she used chemogenomic approaches to identify novel drug candidates and drug targets against malaria. She is interested in using genome mining to contribute to drug discovery and global AMR efforts.
-
-* BPharm: Birla Institute of Technology and Science, Pilani
-
-image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:msaldanha@ufl.edu]
-image:/mc_assets/icons/scholar.png[scholar, {icon_size}, {icon_size}, link=https://scholar.google.com/citations?hl=en&user=6pp-_GkAAAAJ]
-|===
-
-== Undergraduate and Postbaccalaureate Trainees
-[cols=".^{c1ratio},.^{c2ratio}"]
-|===
-a|image::/mc_assets/team/Kashyap.jpg[Neha, {headshot_size}, {headshot_size}]
-a|*Neha Kashyap* +
-Neha is an undergraduate student at UF majoring in Microbiology and Cell Science and minoring in Bioinformatics. She is excited about research related to developing tools to combat antimicrobial resistance and related to exploring the gut-brain axis. Neha hopes to one day attend graduate school to become a bioinformatician.
-
-image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:n.kashyap@ufl.edu]
-
-a|image::/mc_assets/team/Manning.jpg[Shannon, {headshot_size}, {headshot_size}]
-a|*Shannon Manning* +
-Shannon is an undergraduate student at UF majoring in Biology within the College of Agriculture and Life Sciences and minoring in Bioinformatics. She is interested in antimicrobial research, biosynthetic gene clusters, and their influences/roles in antimicrobial resistance. After her undergrad, Shannon plans to attend graduate school and become a Clinical Geneticist.
-
-image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:manningshannon@ufl.edu]
-
-a|image::/mc_assets/team/Febles.jpg[Ayana, {headshot_size}, {headshot_size}]
-a|*Ayana Febles* +
-Ayana is an undergraduate student at UF majoring in Microbiology and Cell Science and minoring in Health Disparities in Society and Chemistry. Ayana is interested in research regarding the role of biosynthetic gene clusters and its influence on secondary metabolites. After undergrad, her goal is to attend medical school in aspiration of becoming an anesthesiologist.
-
-image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:ayana.febles@ufl.edu]
-
-a|image::/mc_assets/team/Hernandez.jpg[Sabrina, {headshot_size}, {headshot_size}]
-a|*Sabrina Hernandez* +
-Sabrina is an undergraduate at UF, majoring in Microbiology and Cell Science with a minor in Bioinformatics. She is passionate about researching antimicrobial resistance in diverse physico-chemical environments. After completing her undergraduate degree, Sabrina plans to attend graduate school with the goal of becoming a research scientist at NASA.
-
-image:/mc_assets/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:sa.hernandez@ufl.edu]
-|===
+// image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:n.kashyap@ufl.edu]
+//|===
 
 '''
 

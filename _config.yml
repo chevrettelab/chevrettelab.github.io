@@ -223,14 +223,14 @@ doctype:                                html
 title:                                  Chevrette Lab
 slogan:                                 Chevrette Lab
 description: >
-                                        Chevrette Lab in the Department of Microbiology & Cell Science at the University of Florida
+                                        Chevrette Lab in the Department of Plant Pathology & Wisconsin Institute for Discovery at the University of Wisconsin-Madison
 keywords: >
                                         chevrette, chevrette lab, marc chevrette, marc g chevrette, marc gerard chevrette,
                                         research, lab, group, microbiome, microbiomes,
                                         microbe, microbial, ecology, evolution, 
                                         genome, genomics, transcriptome, transcriptomics,
                                         comparative, omics, omic, analysis,
-                                        science, biology, florida, university, microbiology, cell science, gainesville,
+                                        science, biology, wisconsin, university, microbiology, cell science, madison, plant pathology,
                                         community, communities, interactions,
                                         metabolism, metabolite, small molecule, molecule,
                                         secondary, specialized, specialised, primary, integrated, underground,
@@ -265,13 +265,13 @@ keywords: >
 
 author:
   name:                                 Marc Chevrette
-  email:                                mchevrette@ufl.edu
+  email:                                chevrette@wisc.edu
   github:                               chevrettelab
   twitter:                              wildtypeMC
   #feedburner:                           feedname
 
 webmaster:
-  email:                                mchevrette@ufl.edu
+  email:                                chevrette@wisc.edu
 
 # Crawling/Indexing ENABLED for default. Settings managed page-wise using
 # frontmatter defaults or by page default settings to make sure that only
@@ -287,15 +287,15 @@ robots:
 # text and text_color here is just alt text 
 
 brand:
-  image:                                modules/icons/uf/uf_orange2.png
-  image_height:                         72
-  text:                                 Chevrette Lab @ UF
+  image:                                clab/uw/uw-crest.png
+  image_height:                         72m
+  text:                                 Chevrette Lab @ UW
   text_color:                           "#9E9E9E"
 
 # Set the favicon and type
 #
 favicon:
-  image:                                modules/icons/uf/uf_orange2.ico
+  image:                                clab/uw/uw-crest.ico
   type:                                 image/ico
 
 # ==============================================================================

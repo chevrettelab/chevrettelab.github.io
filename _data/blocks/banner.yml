@@ -139,7 +139,7 @@ settings:
               type:                     text
               title:                    Welcome to the Chevrette Lab
               translate_title:          notranslate                             # translate|notranslate
-              tagline:                  <b>in the Department of Microbiology & Cell Sciences @ UF</b>
+              tagline:                  <b>in the Department of Plant Pathology & Wisconsin Institute for Discovery @ UW</b>
               description_properties:   mt-3 mb-3
               description: >
                                         <p>
@@ -159,7 +159,7 @@ settings:
                                         </ul></i></p>
                                         <div style="display:flex;flex-wrap:wrap;align-items:center;justify-content:space-evenly">
                                           <p>
-                                            <center><img src="/mc_assets/wheel.png" alt="wheel.png" height=300></center>
+                                            <center><img src="/assets/images/clab/content/wheel.png" alt="wheel.png" height=300></center>
                                           </p>
                                           <p><div style="width:70%;">
                                             Our research aims to address these questions by connecting the evolution of biosynthetic gene clusters and their chemical products to their functional ecology. This is currently explored in two major research areas:
@@ -355,7 +355,7 @@ settings:
               gridify:                    true
               size_y:                     450
               darken:                     6
-              background_image:           /mc_assets/strep_myxo.png
+              background_image:           /assets/images/clab/content/strep_myxo.png
 
   # ----------------------------------------------------------------------------
   # FOO Banner

@@ -20,7 +20,7 @@ resource_options:
       padding_bottom:                   50
       opacity:                          0.5
       slides:
-        - url:                          /mc_assets/gator1.jpg
+        - url:                          /assets/images/clab/uw/bascom_sunrise.png
 ---
 
 // Page Initializer
@@ -57,35 +57,85 @@ endif::[]
 :c1ratio: 1
 :c2ratio: 3
 
+== Former Staff
+[cols=".^{c1ratio},.^{c2ratio}"]
+|===
+a|*Layla Schuster*
+a|2022-2025, UF, Scientist
+
+a|*Mark Ou*
+a|2022-2025, UF, Lab Manager
+
+a|*Melinda Chue Donahey*
+a|2022-2025, UF, Scientist
+|===
+
+
 == Former Postdoctoral Associates
 [cols=".^{c1ratio},.^{c2ratio}"]
 |===
+a|*Denni (Svienn) Einarsson*
+a|2022-2024, UF
+|===
 
-a|*Denni (Svienn) Einarsson* + 
-(2022-2024)
-a|Joint postdoc with the https://tinyecology.com/[Rivers] lab at the USDA-ARS +
-Current position: Assistant Professor, Queens University
+== Former Graduate Students
+[cols=".^{c1ratio},.^{c2ratio}"]
+|===
+a|*José DD Cediel Becerra*
+a|2022-2025, UF Microbiology & Cell Science
+
+a|*Sebastian Guerra*
+a|2022-2025, UF Genetics & Genomics
+
+a|*Murrel Saldanha*
+a|2023-2025, UF Microbiology & Cell Science
 
 |===
 
 == Former Undergraduate and Postbaccalaureate Trainees
 [cols=".^{c1ratio},.^{c2ratio}"]
 |===
+a|*Kellie Rice*
+a|2025, UF
 
-a|*Julia Charske* + 
-(2023)
-a|UF Undergraduate Researcher
+a|*Ayana Febles*
+a|2024-2025, UF
 
-a|*Ma Andrea Gatmaitan* + 
-(2023)
-a|American Society for Pharmacognosy Summer Research Fellow
+a|*Sabrina Hernandez*
+a|2024-2025, UF, American Society for Pharmacognosy Summer Research Fellow
 
-a|*Javier Gil* + 
-(2023)
-a|Miami Dade College Summer Research Fellow +
-Current position: Undergraduate, Massachusetts Institute of Technology
+a|*Shannon Manning*
+a|2023-2025, UF
 
+a|*Neha Kashyap*
+a|2023-2025, UF
+
+a|*Julia Charske*
+a|2023, UF
+
+a|*Ma Andrea Gatmaitan*
+a|2023, UF, American Society for Pharmacognosy Summer Research Fellow
 |===
+
+== Former Visiting Scientists & Trainees
+[cols=".^{c1ratio},.^{c2ratio}"]
+|===
+a|*Eduardo Sánchez Carvajal*
+a|2024-2025, Universidad Téchnica Federico Santa Maria
+
+a|*Jordi Weijers*
+a|2024-2025, Leiden University
+
+a|*Abbi Tate*
+a|2024, Newcastle University
+
+a|*Javier Gil*
+a|2023, Miami Dade College
+
+a|*Lidimarie Trujillo Rodríguez*
+a|2022-2023, University of Florida
+|===
+
 
 '''
 

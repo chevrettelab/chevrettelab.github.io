@@ -71,7 +71,7 @@ settings:
                                         <p>
                                             Biosynthesis and function of secondary metabolites through an evolutionary framework.
                                         </p>
-                                        <img src="/mc_assets/transat_evo.png" alt="transat_evo.png">
+                                        <img src="/assets/images/clab/content/transat_evo.png" alt="transat_evo.png">
 
               buttons:
                 - name:                 Read More
@@ -99,7 +99,7 @@ settings:
                                         <p>
                                             Metabolite mediated interactions in model communities.
                                         </p>
-                                        <img src="/mc_assets/thor_bgc_rnaseq.png" alt="thor_bgc_rnaseq.png">
+                                        <img src="/assets/images/clab/content/thor_bgc_rnaseq.png" alt="thor_bgc_rnaseq.png">
 
               buttons:
 
@@ -128,7 +128,7 @@ settings:
                                         <p>
                                             Natural systems as a source for new microbial chemistry.
                                         </p>
-                                        <img src="/mc_assets/def_symbiosis.png" alt="def_symbiosis.png">
+                                        <img src="/assets/images/clab/content/def_symbiosis.png" alt="def_symbiosis.png">
 
               buttons:
                 - name:                 Read More

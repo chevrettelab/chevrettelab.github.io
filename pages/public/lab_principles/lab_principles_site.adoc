@@ -20,7 +20,7 @@ resource_options:
       padding_bottom:                   50
       opacity:                          0.5
       slides:
-        - url:                          /mc_assets/uf_back_blue.jpg
+        - url:                          /assets/images/clab/uw/bascom_sunrise.png
 ---
 
 // Page Initializer
@@ -61,7 +61,7 @@ We welcome and value diverse people in our lab and expect each lab member to uph
 
 [#img-we_believe]
 [.text-center]
-image::/mc_assets/we_believe.png[we_believe,877,350]
+image::/assets/images/clab/content/we_believe.png[we_believe,877,350]
 
 '''
 
@@ -119,7 +119,7 @@ In our lab::
 [#img-yoda]
 [.text-center]
 .© Lucasfilm
-image::/mc_assets/yoda.png[yoda,600,300]
+image::/assets/images/clab/content/yoda.png[yoda,600,300]
 
 My primary teaching goals, both in the lab and in the classroom, are to encourage scientific curiosity and empower problem-solving creativity. Our top priority in higher education should be to instill strong foundations in scientific literacy and critical thinking in our students, independent of their background or ultimate career path. In particular, training in the interpretation of biological data gives students the tools to make sense of the world around them and evaluate new information. From large introductory courses to upper-level undergraduate classrooms, it is necessary to supplement lectures with interactive learning opportunities and exercises to encourage analytical thinking. Graduate-level courses should build towards mastery of relevant literature, reinforce the interdisciplinary nature of science, and advance students’ ability to effectively communicate complex scientific ideas. My goal as a mentor is to help students grow from knowledge consumers into knowledge creators while ensuring trainee metal health and inclusive lab culture. My aim is to provide the foundations and skills for lifelong engagement in STEM. 
 
@@ -128,7 +128,7 @@ Scientific creativity and innovation necessitate diversity. Heterogenous groups 
 [#img-knope]
 [.text-center]
 .© NBC
-image::/mc_assets/knope.jpg[knope,625,294]
+image::/assets/images/clab/content/knope.jpg[knope,625,294]
 
 Through my experiences, I have learned that a necessary part of being an inclusive mentor is to listen and to seek feedback from peers and trainees that see the world differently or come from different backgrounds. I am committed to using this feedback system to help establish and maintain a culture of acceptance and inclusion in my lab, department, and institution. It is critically important that mentors set standards for maintaining an inclusive, diverse, and anti-racist culture. I will formalize those practices within mentorship contracts that detail the rights and responsibilities of both parties in the mentor-mentee relationship. For those in my lab, I will implement strategies to make myself accessible and to ensure that I monitor my trainees’ mental health and progress in a non-intrusive and careful manner. As individuals, we often do not have the perspective nor the experience to relate to everyone around us. Therefore, we must actively promote inclusive culture for effective trainee mentorship and to connect the diversity of people needed to produce truly innovative thought.
 
@@ -141,7 +141,7 @@ Teaching is not limited to the classroom and mentorship is not limited to one’
 [#img-happy]
 [.text-center]
 .© Universal
-image::/mc_assets/happy.jpg[happy,656,300]
+image::/assets/images/clab/content/happy.jpg[happy,656,300]
 
 === Growth
 
