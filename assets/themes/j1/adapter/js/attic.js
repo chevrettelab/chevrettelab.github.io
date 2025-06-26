@@ -17,7 +17,7 @@
  # Backstretch is licensed under the MIT License.
  # For details, see https://github.com/jquery-backstretch/jquery-backstretch
  # -----------------------------------------------------------------------------
- #  Adapter generated: 2024-06-18 21:18:40 -0400
+ #  Adapter generated: 2025-06-26 08:33:43 -0400
  # -----------------------------------------------------------------------------
 */
 // -----------------------------------------------------------------------------
@@ -45,7 +45,7 @@ j1.adapter.attic = (function (j1, window) {
       // -----------------------------------------------------------------------
       var settings = $.extend({
         module_name: 'j1.adapter.attic',
-        generated:   '2024-06-18 21:18:40 -0400'
+        generated:   '2025-06-26 08:33:43 -0400'
       }, options);
       // -----------------------------------------------------------------------
       // Global variable settings

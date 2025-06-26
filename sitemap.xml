@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:40000/posts/public/featured/news/2022/06/04/hello-world/</loc>
-<lastmod>2022-06-04T00:00:00-04:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:40000/posts/public/featured/news/2022/08/04/ufgi/</loc>
-<lastmod>2022-08-04T00:00:00-04:00</lastmod>
+<loc>http://localhost:40000/posts/public/featured/news/2025/06/25/uw/</loc>
+<lastmod>2025-06-25T00:00:00-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:40000/pages/public/skeleton/documentation/100_converter/</loc>
@@ -64,6 +60,6 @@
 </url>
 <url>
 <loc>http://localhost:40000/googledcca0c5d4222f203.html</loc>
-<lastmod>2023-06-06T22:23:05-04:00</lastmod>
+<lastmod>2025-06-26T08:26:56-04:00</lastmod>
 </url>
 </urlset>

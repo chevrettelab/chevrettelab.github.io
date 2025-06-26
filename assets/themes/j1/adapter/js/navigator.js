@@ -19,7 +19,7 @@
  # NOTE: For getStyleValue helper see
  #  https://stackoverflow.com/questions/16965515/how-to-get-a-style-attribute-from-a-css-class-by-javascript-jquery
  # -----------------------------------------------------------------------------
- # Adapter generated: 2024-06-18 21:18:40 -0400
+ # Adapter generated: 2025-06-26 08:33:43 -0400
  # -----------------------------------------------------------------------------
 */
 // -----------------------------------------------------------------------------
@@ -72,7 +72,7 @@ j1.adapter.navigator = (function (j1, window) {
       // -----------------------------------------------------------------------
       var settings  = $.extend({
         module_name: 'j1.adapter.navigator',
-        generated:   '2024-06-18 21:18:40 -0400'
+        generated:   '2025-06-26 08:33:43 -0400'
       }, options);
       // -----------------------------------------------------------------------
       // Global variable settings
@@ -497,7 +497,7 @@ j1.adapter.navigator = (function (j1, window) {
       $('table').css('background', bg_table);
       $('head').append('<style>.mdi-bg-primary {color: ' +bg_scrolled+ ';}</style>');
       // Size of brand image
-      $('head').append('<style>.navbar-brand > img { height: 72px !important; }</style>');
+      $('head').append('<style>.navbar-brand > img { height: 72mpx !important; }</style>');
       // Navbar transparent-light (light)
       $('head').append('<style>@media (min-width: ' +gridBreakpoint_lg+ ') { nav.navbar.navigator.navbar-transparent.light { background-color: ' +navBarOptions.background_color_full+ ' !important; border-bottom: solid 0px !important; } }</style>');
       $('head').append('<style>@media (min-width: ' +gridBreakpoint_lg+ ') { nav.navbar.navigator.navbar-scrolled.light { background-color: ' +bg_scrolled+ ' !important; } }</style>');
