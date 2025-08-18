@@ -62,7 +62,7 @@ endif::[]
 |===
 a|image::/assets/images/clab/team/Chevrette.png[Marc, {headshot_size}, {headshot_size}]
 a|*Marc G Chevrette, PhD* +
-Marc is an Assistant Professor in the Department of Microbiology & Cell Science at the University of Florida. Prior to UF, Marc was a postdoctoral associate in the Handelsman lab at the Wisconsin Institute for Discovery and Head of Experimental Genomics at Warp Drive Bio (now Ginkgo Bioworks).
+Marc is an Assistant Professor in the Department of Plant Pathology at the University of Wisconsin-Madison and a Resident Discovery Fellow at the Wisconsin Institute for Discovery. . Prior to UW, Marc was an Assistant Professor in Microbiology & Cell Science at the University of Florida, a postdoctoral associate in the Handelsman lab at the Wisconsin Institute for Discovery, and Head of Experimental Genomics at Warp Drive Bio (now Ginkgo Bioworks).
 
 * PhD: Genetics, University of Wisconsin-Madison (Currie lab)
 * MSc: Genetics, University of Wisconsin-Madison (Currie lab)
@@ -91,38 +91,38 @@ image:/assets/images/clab/icons/scholar.png[scholar, {icon_size}, {icon_size}, l
 |===
 a|image::/assets/images/clab/team/Cumsille.jpeg[Andres, {headshot_size}, {headshot_size}]
 a|*Andrés Cumsille, PhD* +
-Andrés is a postdoctoral researcher in the Department of Microbiology & Cell Science at the University of Florida. Before joining UF, Andrés was associated with the Cámara Lab at UTFSM in Chile. He brings extensive experience in utilizing genomics and metabolomics for the study of secondary metabolites in bacteria.
+Andrés is a postdoctoral researcher in the Department of Plant Pathology and the Wisconsin Insitute for Discovery at the University of Wisconsin-Madison. Before joining the Chevrette Lab, Andrés was associated with the Cámara Lab at UTFSM in Chile. He brings extensive experience in utilizing genomics and metabolomics for the study of secondary metabolites in bacteria.
 
 * PhD: Biotechnology, Universidad Técnica Federico Santa María & Pontificia Universidad Católica de Valparaíso
 * BSc: Environmental Engineering, Universidad Técnica Federico Santa María
 
-image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:a.cumsillemontes@ufl.edu]
+image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:cumsillemont@wisc.edu]
 image:/assets/images/clab/icons/twitter.png[twitter, {icon_size}, {icon_size}, link=https://twitter.com/a_cumsille]
 image:/assets/images/clab/icons/scholar.png[scholar, {icon_size}, {icon_size}, link=https://scholar.google.com/citations?hl=en&tzom=300&user=7dciYioAAAAJ]
 |===
 
-// == Graduate Students
-// [cols=".^{c1ratio},.^{c2ratio}"]
-// |===
-// a|image::/assets/images/clab/team/Saldanha.jpg[Murrel, {headshot_size}, {headshot_size}]
-// a|*Murrel Saldanha* +
-// Murrel is a Ph.D. student in the Microbiology and Cell Science Department at the University of Florida. She has worked as a research assistant at University of South Florida where she used chemogenomic approaches to identify novel drug candidates and drug targets against malaria. She is interested in using genome mining to contribute to drug discovery and global AMR efforts.
+== Graduate Students
+[cols=".^{c1ratio},.^{c2ratio}"]
+|===
+a|image::/assets/images/clab/team/Saldanha.jpg[Murrel, {headshot_size}, {headshot_size}]
+a|*Murrel Saldanha* +
+Murrel is a Ph.D. student in the Biophysics Program at the University of Wisconsin-Madison. She has worked as a research assistant at University of South Florida where she used chemogenomic approaches to identify novel drug candidates and drug targets against malaria. She is interested in using genome mining to contribute to drug discovery and global AMR efforts.
 
-// * BPharm: Birla Institute of Technology and Science, Pilani
+* BPharm: Birla Institute of Technology and Science, Pilani
 
-// image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:msaldanha@ufl.edu]
-// image:/assets/images/clab/icons/scholar.png[scholar, {icon_size}, {icon_size}, link=https://scholar.google.com/citations?hl=en&user=6pp-_GkAAAAJ]
-// |===
+image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:msaldanha2@wisc.edu]
+image:/assets/images/clab/icons/scholar.png[scholar, {icon_size}, {icon_size}, link=https://scholar.google.com/citations?hl=en&user=6pp-_GkAAAAJ]
+|===
 
-// == Undergraduate and Postbaccalaureate Trainees
-// [cols=".^{c1ratio},.^{c2ratio}"]
-// |===
-// a|image::/assets/images/clab/team/Kashyap.jpg[Neha, {headshot_size}, {headshot_size}]
-// a|*Neha Kashyap* +
-// Neha is an undergraduate student at UF majoring in Microbiology and Cell Science and minoring in Bioinformatics. She is excited about research related to developing tools to combat antimicrobial resistance and related to exploring the gut-brain axis. Neha hopes to one day attend graduate school to become a bioinformatician.
+== Undergraduate and Postbaccalaureate Trainees
+[cols=".^{c1ratio},.^{c2ratio}"]
+|===
+a|image::/assets/images/clab/team/badger_headshot.jpg[Willow, {headshot_size}, {headshot_size}]
+a|*Willow Ungaro* +
+Under construction.
 
-// image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:n.kashyap@ufl.edu]
-//|===
+image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:wungaro@wisc.edu]
+|===
 
 '''
 

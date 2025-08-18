@@ -87,9 +87,6 @@ a|2022-2025, UF Microbiology & Cell Science
 a|*Sebastian Guerra*
 a|2022-2025, UF Genetics & Genomics
 
-a|*Murrel Saldanha*
-a|2023-2025, UF Microbiology & Cell Science
-
 |===
 
 == Former Undergraduate and Postbaccalaureate Trainees
