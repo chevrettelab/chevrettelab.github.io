@@ -77,9 +77,13 @@ image:/assets/images/clab/icons/scholar.png[scholar, {icon_size}, {icon_size}, l
 == Research Staff
 [cols=".^{c1ratio},.^{c2ratio}"]
 |===
-a|image::/assets/images/clab/team/badger_headshot.jpg[Julia, {headshot_size}, {headshot_size}]
+a|image::/assets/images/clab/team/Nepper.jpg[Julia, {headshot_size}, {headshot_size}]
 a|*Julia Nepper, PhD* +
-Under construction.
+Julia is the lab manager for the Chevrette lab, where she supports the day-to-day research operations in the lab to keep things running safely and seamlessly. Prior to joining the Chevrette lab, Julia was a postdoctoral associate in the Handelsman lab at UW-Madison, before which she worked as a Science Writer for Promega Corporation in Fitchburg, WI. Her research experience is concentrated in bacteriology and molecular biology, but has also included collaborations with researchers in science communication and education.
+
+* PhD: Biophysics, University of Wisconsin-Madison (Weibel lab)
+* BSc: Biology, University of North Carolina-Wilmington
+* BA: Chemistry, University of North Carolina-Wilmington
 
 image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:jnepper@wisc.edu]
 |===
