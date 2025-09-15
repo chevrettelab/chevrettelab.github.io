@@ -63,6 +63,7 @@ We enthusiastically welcome prospective students to visit and rotate in our lab 
 The Chevrette Lab currently accepts graduate students from the following programs:
 
 * https://plantpath.wisc.edu/graduate-study-overview/[Plant Pathology]
+* https://microbiology.wisc.edu/for-prospective-students/[Microbiology Doctoral Training Program]
 * https://genetics.wisc.edu/ph-d-program/[Genetics Training Program]
 * https://cmb.wisc.edu/[Cell and Molecular Biology Graduate Program]
 * https://biophysics.wisc.edu/[Biophysics (Structural and Computational Biology and Quantitative Biosciences)]
