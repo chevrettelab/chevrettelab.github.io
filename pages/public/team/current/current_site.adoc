@@ -101,7 +101,7 @@ a|image::/assets/images/clab/team/Cumsille.jpeg[Andres, {headshot_size}, {headsh
 a|*Andrés Cumsille, PhD* +
 Andrés is a postdoctoral researcher in the Department of Plant Pathology and the Wisconsin Insitute for Discovery at the University of Wisconsin-Madison. Before joining the Chevrette Lab, Andrés was associated with the Cámara Lab at UTFSM in Chile. He brings extensive experience in utilizing genomics and metabolomics for the study of secondary metabolites in bacteria.
 
-* PhD: Biotechnology, Universidad Técnica Federico Santa María & Pontificia Universidad Católica de Valparaíso
+* PhD: Biotechnology, Universidad Técnica Federico Santa María & Pontificia Universidad Católica de Valparaíso (Cámara lab)
 * BSc: Environmental Engineering, Universidad Técnica Federico Santa María
 
 image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:cumsillemont@wisc.edu]
