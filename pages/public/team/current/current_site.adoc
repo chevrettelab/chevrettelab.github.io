@@ -32,6 +32,7 @@ resource_options:
 // -----------------------------------------------------------------------------
 // :page--attr:                         <attr-value>
 :badges-enabled:                        false
+:figure-caption!:
 
 //  Load Liquid procedures
 // -----------------------------------------------------------------------------
@@ -56,6 +57,11 @@ endif::[]
 :icon_size: 32
 :c1ratio: 1
 :c2ratio: 3
+
+[#team_fall_2025]
+[.text-center]
+.Chevrette Lab, Fall 2025
+image::/assets/images/clab/team/w_2025fa.png[team_fall_2025,877,350]
 
 == Principal Investigator
 [cols=".^{c1ratio},.^{c2ratio}"]
