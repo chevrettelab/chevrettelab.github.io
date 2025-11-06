@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:40000/posts/public/featured/news/2025/06/25/uw/</loc>
-<lastmod>2025-06-25T00:00:00-04:00</lastmod>
+<lastmod>2025-06-25T00:00:00-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:40000/pages/public/skeleton/documentation/100_converter/</loc>
@@ -60,6 +60,6 @@
 </url>
 <url>
 <loc>http://localhost:40000/googledcca0c5d4222f203.html</loc>
-<lastmod>2025-09-15T16:34:19-04:00</lastmod>
+<lastmod>2025-09-15T15:34:19-05:00</lastmod>
 </url>
 </urlset>

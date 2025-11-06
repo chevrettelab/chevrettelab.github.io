@@ -12,7 +12,7 @@
  #  J1 Template is licensed under MIT License.
  #  See: https://github.com/jekyll-one/J1 Template/blob/master/LICENSE
  # -----------------------------------------------------------------------------
- #  Adapter generated: 2025-09-15 16:42:49 -0400
+ #  Adapter generated: 2025-11-06 15:24:48 -0500
  # -----------------------------------------------------------------------------
 */
 // -----------------------------------------------------------------------------
@@ -64,7 +64,7 @@ j1.adapter.cookieConsent = (function (j1, window) {
       // -----------------------------------------------------------------------
       var settings = $.extend({
         module_name: 'j1.adapter.cookieConsent',
-        generated:   '2025-09-15 16:42:49 -0400'
+        generated:   '2025-11-06 15:24:48 -0500'
       }, options);
       // -----------------------------------------------------------------------
       // Global variable settings
