@@ -120,6 +120,30 @@ Murrel is a Ph.D. student in the Biophysics Program at the University of Wiscons
 
 image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:msaldanha2@wisc.edu]
 image:/assets/images/clab/icons/scholar.png[scholar, {icon_size}, {icon_size}, link=https://scholar.google.com/citations?hl=en&user=6pp-_GkAAAAJ]
+
+a|image::/assets/images/clab/team/badger_headshot.jpg[Martin, {headshot_size}, {headshot_size}]
+a|*Marielle Martin* +
+Under construction.
+
+image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:mmartin39@wisc.edu]
+
+a|image::/assets/images/clab/team/badger_headshot.jpg[Clark, {headshot_size}, {headshot_size}]
+a|*Ava Clark* +
+Under construction.
+
+image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:ahclark4@wisc.edu]
+
+a|image::/assets/images/clab/team/badger_headshot.jpg[McCauslin, {headshot_size}, {headshot_size}]
+a|*Sydney McCauslin* +
+Under construction.
+
+image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:smccauslin@wisc.edu]
+
+a|image::/assets/images/clab/team/badger_headshot.jpg[Putnam, {headshot_size}, {headshot_size}]
+a|*Josephine Putnam* +
+Under construction.
+
+image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:jhputnam@wisc.edu]
 |===
 
 == Undergraduate and Postbaccalaureate Trainees
@@ -142,6 +166,12 @@ a|*Socorro Palmon* +
 Under construction.
 
 image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:spalmon@wisc.edu]
+
+a|image::/assets/images/clab/team/badger_headshot.jpg[North, {headshot_size}, {headshot_size}]
+a|*Stella North* +
+Under construction.
+
+image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:sanorth@wisc.edu]
 |===
 
 '''
