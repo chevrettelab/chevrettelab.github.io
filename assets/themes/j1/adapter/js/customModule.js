@@ -13,7 +13,7 @@
  # J1 Template is licensed under the MIT License.
  # For details, see: https://github.com/jekyll-one-org/j1-template/blob/main/LICENSE.md
  # -----------------------------------------------------------------------------
- #  Adapter generated: 2025-11-06 15:30:31 -0500
+ #  Adapter generated: 2025-12-12 15:28:20 -0500
  # -----------------------------------------------------------------------------
 */
 // -----------------------------------------------------------------------------
@@ -46,7 +46,7 @@ j1.adapter.customModule = (function (j1, window) {
       // -----------------------------------------------------------------------
       var settings = $.extend({
         module_name: 'j1.adapter.customModule',
-        generated:   '2025-11-06 15:30:31 -0500'
+        generated:   '2025-12-12 15:28:20 -0500'
       }, options);
       // -----------------------------------------------------------------------
       // Global variable settings
