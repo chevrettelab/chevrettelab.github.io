@@ -139,9 +139,11 @@ Under construction.
 
 image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:smccauslin@wisc.edu]
 
-a|image::/assets/images/clab/team/badger_headshot.jpg[Putnam, {headshot_size}, {headshot_size}]
+a|image::/assets/images/clab/team/Putnam.jpg[Putnam, {headshot_size}, {headshot_size}]
 a|*Josephine Putnam* +
-Under construction.
+Josephine is a PhD student in the Microbiology Doctoral Training Program at the University of Wisconsin-Madison. Prior to joining the Chevrette Lab, Josephine was a post-baccalaureate and undergraduate researcher in the Handelsman Lab at UW-Madison. There, she studied soil bacteria as sources of antibiotics, as models of microbial interaction, and as potential biocontrol agents against plant disease. She is interested in understanding how bacteria communicate with each other using secondary metabolites. 
+
+* BSc: Microbiology & Spanish, University of Wisconsin-Madison
 
 image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:jhputnam@wisc.edu]
 |===
