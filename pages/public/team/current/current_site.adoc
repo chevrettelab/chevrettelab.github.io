@@ -127,9 +127,11 @@ Under construction.
 
 image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:mmartin39@wisc.edu]
 
-a|image::/assets/images/clab/team/badger_headshot.jpg[Clark, {headshot_size}, {headshot_size}]
+a|image::/assets/images/clab/team/Clark.jpg[Clark, {headshot_size}, {headshot_size}]
 a|*Ava Clark* +
-Under construction.
+Ava is a PhD student in the Microbiology Doctoral Training Program at the University of Wisconsin-Madison. She is co-advised by Dr. Nancy Keller. Before joining the Chevrette Lab, Ava was an undergraduate researcher at the Pfleger Lab at UW-Madison, where she studied metabolic engineering in E. coli for biofuel production, and at IFF, where she worked on improving lactic acid bacterial strains for use in dairy products. She currently studies secondary metabolites involved in bacterial-fungal interactions. 
+
+* BSc: Molecular and Cell Biology & Life Sciences Communication, University of Wisconsin-Madison
 
 image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:ahclark4@wisc.edu]
 
