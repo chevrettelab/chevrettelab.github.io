@@ -92,6 +92,9 @@ a|2022-2025, UF Genetics & Genomics
 == Former Undergraduate and Postbaccalaureate Trainees
 [cols=".^{c1ratio},.^{c2ratio}"]
 |===
+a|*Willow Ungaro*
+a|2025-2026, UW
+
 a|*Kellie Rice*
 a|2025, UF
 

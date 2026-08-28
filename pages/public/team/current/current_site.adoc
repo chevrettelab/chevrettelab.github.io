@@ -92,6 +92,13 @@ Julia is the lab manager for the Chevrette lab, where she supports the day-to-da
 * BA: Chemistry, University of North Carolina-Wilmington
 
 image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:jnepper@wisc.edu]
+
+a|image::/assets/images/clab/team/badger_headshot.jpg[Sung Chul, {headshot_size}, {headshot_size}]
+a|*Sung Chul Park, PhD* +
+Under construction.
+
+image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:park54@wisc.edu]
+
 |===
 
 == Postdoctoral Associates
@@ -107,6 +114,12 @@ Andrés is a postdoctoral researcher in the Department of Plant Pathology and th
 image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:cumsillemont@wisc.edu]
 image:/assets/images/clab/icons/twitter.png[twitter, {icon_size}, {icon_size}, link=https://twitter.com/a_cumsille]
 image:/assets/images/clab/icons/scholar.png[scholar, {icon_size}, {icon_size}, link=https://scholar.google.com/citations?hl=en&tzom=300&user=7dciYioAAAAJ]
+
+a|image::/assets/images/clab/team/badger_headshot.jpg[Austin, {headshot_size}, {headshot_size}]
+a|*Austin Hall, PhD* +
+Under construction.
+
+image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:arhall4@wisc.edu]
 |===
 
 == Graduate Students
@@ -153,12 +166,6 @@ image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=
 == Undergraduate and Postbaccalaureate Trainees
 [cols=".^{c1ratio},.^{c2ratio}"]
 |===
-a|image::/assets/images/clab/team/badger_headshot.jpg[Willow, {headshot_size}, {headshot_size}]
-a|*Willow Ungaro* +
-Under construction.
-
-image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:wungaro@wisc.edu]
-
 a|image::/assets/images/clab/team/badger_headshot.jpg[Zach, {headshot_size}, {headshot_size}]
 a|*Zachary Ammar* +
 Under construction.
@@ -176,6 +183,12 @@ a|*Stella North* +
 Under construction.
 
 image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:sanorth@wisc.edu]
+
+a|image::/assets/images/clab/team/badger_headshot.jpg[Claire, {headshot_size}, {headshot_size}]
+a|*Claire Mathison* +
+Under construction.
+
+image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:cvmathison@wisc.edu]
 |===
 
 '''
