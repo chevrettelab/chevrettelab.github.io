@@ -58,9 +58,14 @@ endif::[]
 :c1ratio: 1
 :c2ratio: 3
 
+[#team_fall_2026]
+[.text-center]
+.Fall 2026
+image::/assets/images/clab/team/w_2026fa.jpg[team_fall_2026,877,350]
+
 [#team_fall_2025]
 [.text-center]
-.Chevrette Lab, Fall 2025
+.Fall 2025
 image::/assets/images/clab/team/w_2025fa.png[team_fall_2025,877,350]
 
 == Principal Investigator
@@ -115,9 +120,12 @@ image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=
 image:/assets/images/clab/icons/twitter.png[twitter, {icon_size}, {icon_size}, link=https://twitter.com/a_cumsille]
 image:/assets/images/clab/icons/scholar.png[scholar, {icon_size}, {icon_size}, link=https://scholar.google.com/citations?hl=en&tzom=300&user=7dciYioAAAAJ]
 
-a|image::/assets/images/clab/team/badger_headshot.jpg[Austin, {headshot_size}, {headshot_size}]
+a|image::/assets/images/clab/team/Hall.jpg[Austin, {headshot_size}, {headshot_size}]
 a|*Austin Hall, PhD* +
-Under construction.
+Austin is a postdoctoral researcher in the Department of Plant Pathology and the Wisconsin Insitute for Discovery at the University of Wisconsin-Madison. Before joining the Chevrette Lab, Austin was associated with the Handelsman lab. He brings expertise in molecular biology as well a passion for microbial ecology.
+
+* PhD: Plant Pathology, University of Wisconsin - Madison
+* BSc: Biological Sciences, Missouri University of Science and Technology
 
 image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:arhall4@wisc.edu]
 |===
@@ -134,7 +142,7 @@ Murrel is a Ph.D. student in the Biophysics Program at the University of Wiscons
 image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:msaldanha2@wisc.edu]
 image:/assets/images/clab/icons/scholar.png[scholar, {icon_size}, {icon_size}, link=https://scholar.google.com/citations?hl=en&user=6pp-_GkAAAAJ]
 
-a|image::/assets/images/clab/team/badger_headshot.jpg[Martin, {headshot_size}, {headshot_size}]
+a|image::/assets/images/clab/team/Martin.png[Martin, {headshot_size}, {headshot_size}]
 a|*Marielle Martin* +
 Under construction.
 
@@ -178,7 +186,7 @@ Under construction.
 
 image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=mailto:spalmon@wisc.edu]
 
-a|image::/assets/images/clab/team/badger_headshot.jpg[North, {headshot_size}, {headshot_size}]
+a|image::/assets/images/clab/team/North.png[North, {headshot_size}, {headshot_size}]
 a|*Stella North* +
 Under construction.
 
