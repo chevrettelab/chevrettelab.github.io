@@ -174,7 +174,7 @@ image:/assets/images/clab/icons/email.png[email, {icon_size}, {icon_size}, link=
 == Undergraduate and Postbaccalaureate Trainees
 [cols=".^{c1ratio},.^{c2ratio}"]
 |===
-a|image::/assets/images/clab/team/badger_headshot.jpg[Zach, {headshot_size}, {headshot_size}]
+a|image::/assets/images/clab/team/Ammar.jpeg[Zach, {headshot_size}, {headshot_size}]
 a|*Zachary Ammar* +
 Under construction.
 
